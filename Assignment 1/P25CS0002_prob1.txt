@@ -1,0 +1,66 @@
+REFLECTION ON NATURALNESS - Reggy++ Chatbot
+P25CS0002_prob1.txt
+Ashutosh (P25CS0002)
+================================================================================
+
+How natural or unnatural the chatbot feels:
+
+The Reggy++ chatbot has a mixed feel when it comes to naturalness. On the positive
+side, the flow of conversation is structured in a logical way: it greets you, asks
+for your name, then birthday, then mood. This feels somewhat natural because it
+mirrors how a person might get to know someone new. The responses to different
+moods (happy, sad, tired, etc.) are varied and empathetic, which helps the
+chatbot feel less robotic.
+
+However, there are clear unnatural aspects. The chatbot is very rigid in its
+expectations. It must receive information in a specific order and format. If you
+try to say "I'm feeling tired and my birthday is 15-02-2000" in one message, it
+will likely only catch one part or get confused. The chatbot also repeats the
+same prompts when it doesn't understand, which can feel frustrating. For example,
+when given an invalid date, it asks for the birthday again without acknowledging
+what went wrong in a conversational way. The lack of memory beyond the current
+session (name, age, mood) means it cannot refer back to earlier parts of the
+conversation naturally.
+
+
+Strengths of regex-based interaction:
+
+The main strength of using regular expressions is simplicity and predictability.
+There are no external libraries needed, and the logic is transparent. Once you
+define a pattern, you know exactly what will match. This makes the chatbot easy
+to debug and extend. For well-defined tasks like parsing dates in known formats
+(dd-mm-yyyy, Month dd YYYY, etc.), regex works quite well. We can handle multiple
+formats with a few patterns.
+
+Another strength is typo tolerance. By using flexible patterns like "hap+y" or
+"hapy|hapi|hppy" for "happy", we can catch common spelling mistakes without
+complex fuzzy matching. The same approach works for mood words. Surname
+extraction is trivial with regex—just split on whitespace and take the last
+word. For a constrained domain, regex gives good coverage with minimal code.
+
+
+Limitations and failure cases:
+
+The biggest limitation is that regex cannot understand context or intent. If the
+user says "I was born on 15th of February 2000", the chatbot might not extract
+the date correctly because "15th" has letters. We would need more patterns to
+handle "15th", "1st", "22nd" etc. Similarly, "my birthday is next month" or "I
+turned 25 last week" cannot be handled at all.
+
+Ambiguous dates are another problem. For "03-04-2000", is it March 4 or April 3?
+The chatbot tries both and picks the first valid date, but this could be wrong
+depending on the user's locale. There is no way to ask for clarification.
+
+Mood detection fails when the user expresses mood indirectly. "I had a rough day"
+or "everything is going wrong" would not match any mood pattern. We can only
+handle explicit mood words. The typo patterns help but cannot cover all possible
+misspellings.
+
+The failure case in the log (Run 6) shows another issue: when the user gives an
+invalid date and then says "bored", the chatbot still expects a date. It does not
+recognize "bored" as a mood because the conversation state is stuck on the
+birthday question. A more natural chatbot would be able to handle out-of-order
+or mixed inputs.
+
+Overall, regex-based chatbots work well for narrow, formulaic interactions but
+struggle with the variety and flexibility of human conversation.
