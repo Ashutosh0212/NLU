@@ -1,21 +1,20 @@
 # Assignment 2 — NLU (Problem 1 & Problem 2)
 
-This folder is the **hand-in bundle** for Natural Language Understanding Assignment 2: **Word2Vec on IIT Jodhpur text** (Problem 1) and **character-level name generation with RNN / BiLSTM / attention** (Problem 2).
+**Written report:** [`P25CS0002-A2/report.pdf`](P25CS0002-A2/report.pdf) — full write-up, results, and figures for both problems.
 
-- **How to run the code:** follow the sections below (order matters for Problem 1).
-- **Full narrative, task checklists, and figure placeholders:** see **[`overall_report.md`](overall_report.md)** in this same folder (master document aligned with the assignment brief).
+This README only explains **how to set up the environment and run the code** (notebooks and scripts).
 
 ---
 
 ## Requirements
 
-- **Python:** 3.10+ recommended (matches `from __future__ import annotations` in the preprocessing script).
-- **OS:** Windows, macOS, or Linux — use a terminal in **this directory** (`Assignment 2/`) as the working directory unless noted.
+- **Python:** 3.10+ recommended.
+- **Working directory:** open a terminal in **`Assignment 2/`** (the folder that contains this file).
 
 ### Install dependencies
 
 ```bash
-cd "Assignment 2"   # or: cd path/to/Assignment 2
+cd "Assignment 2"
 python -m venv venv
 ```
 
@@ -33,55 +32,47 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-`requirements.txt` includes: `torch`, `gensim`, `matplotlib`, `nltk`, `wordcloud`, `requests`, `pdfplumber`, `beautifulsoup4`, `langdetect`, and (for optional name regeneration) you can add `openai` manually if you use `P25CS0002_prob2_task1.py`.
+For optional name regeneration (`P25CS0002_prob2_task1.py`), also run: `pip install openai`.
 
 ---
 
-## Repository layout (this folder)
+## What’s in this folder
 
-| Item | Role |
+| File / folder | Purpose |
 | --- | --- |
-| [`P25CS0002_prob1_task1.py`](P25CS0002_prob1_task1.py) | **Problem 1 — Task 1 pipeline:** read raw `.txt` from `IITJ_corpus/`, clean & tokenise, write `PA1_Task1_output/` |
-| [`P25CS0002_prob1.ipynb`](P25CS0002_prob1.ipynb) | **Problem 1 — main notebook:** Word2Vec (Gensim + PyTorch), grids, neighbours, analogies, PCA/t-SNE |
-| [`P25CS0002_prob2.ipynb`](P25CS0002_prob2.ipynb) | **Problem 2:** three char-level models, training, novelty/diversity, plots |
-| [`P25CS0002_prob2_task1.py`](P25CS0002_prob2_task1.py) | **Optional:** regenerate `TrainingNamesGPT.txt` via OpenAI API (needs `OPENAI_API_KEY`) |
-| [`TrainingNamesGPT.txt`](TrainingNamesGPT.txt) | **Problem 2 data:** 1000 names (one per line) — already included |
-| [`P25CS0002-A2/clean_corpus.txt`](P25CS0002-A2/clean_corpus.txt) | **Bundled clean corpus** — use if you skip preprocessing |
-| [`overall_report.md`](overall_report.md) | Full assignment write-up template + deliverables checklist |
-| [`requirements.txt`](requirements.txt) | Python dependencies |
+| `P25CS0002_prob1_task1.py` | Problem 1 — preprocess raw `.txt` from `IITJ_corpus/` → `PA1_Task1_output/` |
+| `P25CS0002_prob1.ipynb` | Problem 1 — Word2Vec (Gensim + PyTorch), plots, analysis |
+| `P25CS0002_prob2.ipynb` | Problem 2 — char-level RNN / BiLSTM / attention, training, metrics, figures |
+| `P25CS0002_prob2_task1.py` | Optional — regenerate names via API (`OPENAI_API_KEY`) |
+| `TrainingNamesGPT.txt` | Problem 2 — name list (one per line) |
+| `P25CS0002-A2/clean_corpus.txt` | Bundled clean corpus if you skip preprocessing |
+| `P25CS0002-A2/report.pdf` | **Submission report** |
 
-**Name map (if you read `overall_report.md` from the course template):** the report may mention `Problem1_IITJ.ipynb` / `PA1_Task1.py` / `problem2.ipynb`. In **this** repo those correspond to `P25CS0002_prob1.ipynb`, `P25CS0002_prob1_task1.py`, and `P25CS0002_prob2.ipynb` (see the table at the top of `overall_report.md`).
+**Report vs code names:** the PDF may refer to notebooks as `Problem1_IITJ.ipynb` / `problem2.ipynb`. In this repo they are **`P25CS0002_prob1.ipynb`** and **`P25CS0002_prob2.ipynb`**; preprocessing is **`P25CS0002_prob1_task1.py`** (not `PA1_Task1.py`).
 
 ---
 
-## Problem 1 — Word2Vec (IIT Jodhpur corpus)
+## Problem 1 — run order
 
-### Step A — Build `PA1_Task1_output/clean_corpus.txt`
+### 1) Get `PA1_Task1_output/clean_corpus.txt`
 
-The notebook **expects**:
+**Option A — Preprocess your own raw text**
 
-- `PA1_Task1_output/clean_corpus.txt`
-- (Optional) `PA1_Task1_output/corpus_statistics.json` — produced by the same script
-
-You can do **either** of the following.
-
-#### Option 1 — Run the preprocessing script (full pipeline)
-
-1. Create a folder **`IITJ_corpus/`** next to `P25CS0002_prob1_task1.py`.
-2. Put your **raw** IIT Jodhpur-related `.txt` files there (one or more documents).
+1. Create **`IITJ_corpus/`** next to `P25CS0002_prob1_task1.py`.
+2. Add IIT Jodhpur-related **`.txt`** files.
 3. Run:
 
    ```bash
    python P25CS0002_prob1_task1.py
    ```
 
-4. Outputs appear under **`PA1_Task1_output/`**: `clean_corpus.txt`, `corpus_statistics.json`, `wordcloud.png`.
+4. Check **`PA1_Task1_output/`** for `clean_corpus.txt`, `corpus_statistics.json`, `wordcloud.png`.
 
-#### Option 2 — Use the bundled clean corpus (quick start)
+**Option B — Use the bundled corpus**
 
-If you do **not** have raw `IITJ_corpus/` sources in the repo, copy the bundled file into the path the notebook checks:
+From **`Assignment 2/`**:
 
-**PowerShell (from `Assignment 2/`):**
+**PowerShell:**
 
 ```powershell
 New-Item -ItemType Directory -Force -Path PA1_Task1_output | Out-Null
@@ -95,85 +86,54 @@ mkdir -p PA1_Task1_output
 cp P25CS0002-A2/clean_corpus.txt PA1_Task1_output/clean_corpus.txt
 ```
 
-Then open the notebook; the first corpus cells should find `clean_corpus.txt`.
+### 2) Run the notebook
 
-### Step B — Run the Problem 1 notebook
+1. Activate the venv; open **`P25CS0002_prob1.ipynb`** in Jupyter / VS Code / Cursor.
+2. **Run all** cells in order.
 
-1. Start Jupyter, VS Code, or Cursor with the venv activated.
-2. Open **`P25CS0002_prob1.ipynb`**.
-3. **Run all cells** (order matters: corpus load → stats / word cloud → Word2Vec grids → analysis → plots).
+Figures and exports go under **`PA1_Task1_output/`** (paths are printed in the notebook).
 
-Figures are written to **`PA1_Task1_output/`** (loss grids, PyTorch loss curves, PCA/t-SNE exports — exact filenames appear in notebook printouts).
-
-**Note:** First run may download NLTK data if a cell uses NLTK tokenisers; follow any on-screen prompt or install punkt/stopwords as needed.
+If a cell needs **NLTK** data, install what it asks for (e.g. punkt).
 
 ---
 
-## Problem 2 — Character-level name generation
+## Problem 2 — run order
 
-### Data
+1. Keep **`TrainingNamesGPT.txt`** in the **same folder** as **`P25CS0002_prob2.ipynb`**.
+2. Activate the venv; open **`P25CS0002_prob2.ipynb`**.
+3. Run from the top. Use **Restart kernel** if `%pip` tells you to after installing packages.
+4. Training is slow on **CPU**; **GPU** is used if PyTorch detects CUDA.
 
-Keep **`TrainingNamesGPT.txt`** in the **same folder** as **`P25CS0002_prob2.ipynb`** (this is already the case). The notebook can optionally copy it to `TrainingNames.txt` for rubrics that require that exact name.
+**Outputs** (same folder as the notebook after a full run), e.g.:
 
-### Run the notebook
+- `problem2_loss_placeholder.png`
+- `problem2_novelty_diversity_bars.png`
 
-1. With venv activated, open **`P25CS0002_prob2.ipynb`**.
-2. Run cells from the top. The `%pip` cell installs/updates `torch`, `pandas`, `matplotlib` if needed (restart kernel if the installer says so).
-3. **Training** takes noticeable time on **CPU** (three models × many epochs); GPU is used automatically if PyTorch sees CUDA.
-
-### Outputs (next to the notebook)
-
-After a full run you should see files such as:
-
-- `problem2_loss_placeholder.png` — training loss comparison  
-- `problem2_novelty_diversity_bars.png` — novelty vs diversity bar chart  
-
-### Optional — regenerate names with an LLM
-
-Only if you want a **new** name list:
+### Optional — new name list via API
 
 ```powershell
 $env:OPENAI_API_KEY = "sk-..."
-# optional: $env:OPENAI_MODEL = "gpt-4o-mini"
 pip install openai
 python P25CS0002_prob2_task1.py
 ```
 
-The script writes **`TrainingNamesGPT.txt`** in the current working directory — run it from **`Assignment 2/`** so the notebook picks it up. The script must be edited to use `OPENAI_MODEL` consistently if you override the model (the template may hard-code a model id in the API call).
+Run that from **`Assignment 2/`** so it writes `TrainingNamesGPT.txt` next to the notebook.
 
 ---
 
-## Reports and GitHub
+## GitHub (optional)
 
-- **`overall_report.md`** — assignment-wide document: objectives, tables, figure placeholders, declaration. Fill placeholders and embed or link figures exported from the notebooks.
-- Optional extended markdown reports (e.g. `Problem1_IITJ_Report.md`, `Problem2_Report.md`) may live at the parent project root; this folder’s **`overall_report.md`** is the single file you need for a **self-contained** GitHub repo.
+**`.gitignore` ideas:** `venv/`, `__pycache__/`, `.ipynb_checkpoints/`, `*.pt`, large `.model` files.
 
-### Suggested `.gitignore` (if you initialise git here)
-
-```
-venv/
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-*.pt
-*.model
-```
-
-Track notebooks, scripts, `requirements.txt`, `TrainingNamesGPT.txt`, small text corpora, and committed figures if you want them visible on GitHub. Large binary models are often excluded.
+Commit `report.pdf`, notebooks, scripts, `requirements.txt`, and small data files as needed.
 
 ---
 
 ## Troubleshooting
 
-| Issue | What to try |
+| Issue | Try |
 | --- | --- |
-| `FileNotFoundError: ... clean_corpus.txt` | Create `PA1_Task1_output/` and add `clean_corpus.txt` (Option 1 or 2 above). |
-| `Can't find folder: IITJ_corpus` | Create `IITJ_corpus` and add `.txt` files, or skip the script and use Option 2. |
-| PyTorch / CUDA | CPU works; install the appropriate wheel from [pytorch.org](https://pytorch.org) if you need GPU. |
-| Notebook kernel not using venv | In VS Code / Jupyter, select the interpreter from `./venv`. |
-
----
-
-## Licence / academic use
-
-Course assignment materials — keep your institution’s plagiarism and collaboration rules in mind. The declaration section in **`overall_report.md`** is for your submission.
+| Missing `clean_corpus.txt` | Option A or B under Problem 1. |
+| Missing `IITJ_corpus` | Create the folder and add `.txt` files, or use Option B. |
+| Wrong Python / packages | Select the **`venv`** interpreter for the notebook kernel. |
+| CUDA | Optional; CPU works. See [pytorch.org](https://pytorch.org) for GPU wheels. |
