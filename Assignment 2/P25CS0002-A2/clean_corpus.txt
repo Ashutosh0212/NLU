@@ -1,0 +1,1340 @@
+academic programmes at indian institute of technology jodhpur are designed to develop high calibre human resources capable of understanding new patterns of knowledge creation across disciplines
+academic programmes aim to remove traditional boundaries between science humanities social sciences and engineering
+indian institute of technology jodhpur aims to produce professionals capable of addressing societal challenges such as energy food water housing mobility and health
+the institute focuses on imparting scientific knowledge along with human qualities such as courage integrity fairness humility and teamwork
+undergraduate academic programmes focus on lifelong learning creative thinking and exploration
+postgraduate academic programmes focus on deep understanding of subjects along with creative inquisitiveness and problem solving ability
+academic programmes are based on semester system credit system and relative grading
+academic programmes are administered by the academic committee through the office of academics
+the academic committee is chaired by the dean academics
+in absence of dean academics associate dean academics postgraduate or associate dean academics undergraduate performs the responsibilities
+the senate formulates guidelines and rules to maintain high academic standards and smooth functioning of programmes
+different programmes may include additional academic requirements with approval of the senate
+academic programmes are continuously monitored and improved by the senate
+academic session runs from end of july of one year to middle of july of the next year
+academic session consists of two regular semesters and one summer term
+semester one runs from fourth week of july to last week of november
+semester two runs from last week of december to last week of april
+summer term runs from middle of may to middle of july
+each semester has at least seventy days of instruction excluding examination days
+academic calendar provides dates for important academic events
+academic calendar includes orientation registration commencement of classes adding and dropping courses submission of documents examinations submission of grades project evaluation declaration of results mid semester recess and vacation
+academic calendar is approved by the senate
+students are required to register for prescribed credits as per their programme on dates specified in the academic calendar
+if student does not register on time the student can register later by paying fine before the late registration deadline
+fresh student awaiting final results of qualifying examination may register provisionally by submitting certificate from the previous institute
+provisional registration must be regularized by submitting proof of passing the qualifying examination before the deadline in the academic calendar
+if student fails to register even after the late registration deadline the student will be deregistered
+student may appeal against deregistration to the chairman senate through the dean academics
+the chairman senate may allow continuation of registration after payment of fine
+student may add or drop courses with approval of the faculty advisor until the last date of registration
+after the add drop deadline student may withdraw from course within the specified time period
+withdrawn course is recorded in the grade card with grade
+absence for four or more weeks in semester leads to automatic cancellation of registration for all courses in that semester
+departments may offer summer courses to help students clear backlog or complete credits
+summer courses are offered only if faculty members are available and require approval of the dean
+teaching and evaluation are conducted in english as the medium of instruction
+all courses have associated credits based on lecture tutorial and practical contact hours
+student earns credits after successfully completing course with passing grade
+courses are assigned levels based on the academic maturity required
+course may consist of independent components called fractals
+fractals are parts of course that can be completed independently
+each course is identified by unique course number
+course numbering scheme defines parameters such as structure level and identification
+course code structure includes department offering course type level of course unique identification fractal indicator
+department code means offering department or idrp course type means course type level means level of courses unique code means unique identification number given by office of academics fractal indicator last digit means fractal level
+fractal level means regular fractal level means fractal fractal level means fractal fractal level means fractal
+engineering mechanics is regular course with code mel xx and ltp robotics is regular course with code mel xx and ltp
+robot modelling is fractal course of level with code mel xx and ltp motion planning and programming is fractal course of level with code mel xx and ltp robot control is fractal course of level with code mel xx and ltp
+me means mechanical engineering department cs means computer science and engineering department ee means electrical engineering department ci means civil and infrastructure engineering department ch means chemical engineering department bb means bioscience and bioengineering department mt means metallurgical and materials engineering department cy means chemistry department ma means mathematics department ph means physics department hs means humanities and social science department
+dh means digital humanities idrp ss means space science and technology idrp io means internet of things and applications idrp av means autonomous unmanned vehicles idrp qc means quantum information and computation idrp cg means cognitive science idrp sh means smart healthcare idrp
+oa means office of academics os means office of students
+course type means lecture courses which can include tutorial and practical hours with ltp structures such as or or
+course type means practical or practice based courses where performance is evaluated primarily on the basis of practice practical or laboratory work with ltp structures such as or or
+course type means project based courses such as major minor and mini projects
+course type means non graded course component
+course type means engineering innovation
+course type means engineering design which can be graded or non graded
+level corresponds to courses for tech programmes with credit requirement tech credits greater than or equal to
+level corresponds to tech programmes
+level corresponds to tech programmes with credits greater than or equal to
+level corresponds to tech programmes with credits greater than or equal to
+level corresponds to preparatory courses of sc and tech programmes not open to tech and tech plus tech dual degree with credit requirement tech credits equal to and sc credits equal to
+level corresponds to courses for sc programmes with credit requirement tech credits greater than or equal to sc credits greater than or equal to tech credits equal to
+level corresponds to courses for tech programmes and advanced courses for sc with credit requirement tech credits greater than or equal to sc credits greater than or equal to tech credits equal to phd credits equal to
+level corresponds to advanced courses for tech and phd programmes and an level course should have level course as prerequisite with credit requirement tech credits greater than or equal to and phd credits equal to
+the senate approves each course along with its credit weight and only approved courses may be offered during any semester or summer term
+the list of courses offered in program is finalized before the beginning of the semester by the department hosting the program
+courses offered can belong to different categories
+regular course requires hours of classroom engagement per one credit and can be categorized as elective or core or compulsory
+elective courses of level or will run if minimum of students register for the course
+elective courses of level or will run if minimum of students register for the course
+course not running as regular course may be offered as self study course
+self study course must be from the list of courses approved by the senate
+student may register for an elective course as self study course if the course is not running in that semester or if the student is not on campus with prior approval
+student may register for core or compulsory course in self study mode if the student has failed earlier and the course is not offered in that semester or the student is not on campus with prior approval
+students must apply for self study course with recommendation of course coordinator and dugc or drc or irc
+final approval of self study course is given by the dean academics
+self study courses may not have formal classroom engagement but may include laboratory design and computation exercises
+the course coordinator evaluates self study course and assigns letter grade at the end of the semester
+self study course appears on the transcript with the approved course title
+student can opt for self study courses up to maximum of percent of total graded credits
+independent study allows student to pursue topic of academic interest under supervision of faculty member
+independent study requires self discipline and clear direction from the student
+student must have cgpa greater than or equal to point to opt for independent study
+student may register for an independent study course not exceeding credits and only once during the program
+independent study courses count toward open elective requirements
+independent study courses appear on transcript with the title independent study
+students must apply for independent study with recommendation of course coordinator and dugc or drc or irc
+final approval of independent study is given by the dean academics
+independent study courses may not have formal lectures but may include laboratory design and computation exercises
+independent study courses are planned and managed by supervising professor
+the course coordinator evaluates independent study courses and assigns grades at the end of the semester
+each course is conducted by an instructor with assistance of tutors if required
+the instructor is responsible for conducting the course and evaluating student performance
+the instructor is responsible for conducting the course evaluating student performance awarding grades and submitting grades as per guidelines
+students are allowed to access their answer sheets of written examinations shown by the instructor
+the instructor must retain evaluation records for at least six months
+courses approved by the senate can be conducted through direct contact synchronized remote contact guided study mode or combination of these modes
+direct contact mode involves face to face interaction between instructor and students
+synchronized remote contact mode involves real time interaction through audio and video communication
+synchronized remote contact requires some direct physical interaction typically around twenty five percent of total contact hours
+guided study mode involves self learning and discussion based sessions under faculty guidance
+guided study mode can also be used for studying new courses under faculty supervision even if not yet approved by the senate
+all formal evaluations must be conducted under direct physical supervision of faculty
+laboratory components requiring specialized facilities must be conducted through direct contact mode
+teaching assignments for instructors and tutors are decided by the head of the department
+if faculty from other departments are involved the assignment is done in consultation with the respective department head
+student may audit course in addition to regular academic load with permission of dean academics and recommendation of instructor and faculty advisor
+audited courses are listed in the grade card of the student
+students are expected to have full attendance in all courses unless officially permitted absence is granted
+students must attend lectures tutorials and laboratory sessions
+attendance records must be shared with students after every lecture
+students with attendance below seventy five percent are still allowed to appear in examinations
+students with attendance below seventy five percent must score at least grade to pass the course
+students below seventy five percent attendance will receive grade if their marks are below the cutoff for grade
+student performance is evaluated continuously through classroom interaction examinations laboratory work term papers and projects
+evaluation includes both continuous assessment and examinations
+the senate determines the system of tests and examinations for each subject and semester
+minor one minor two and major examinations are mandatory components of evaluation in regular fourteen week long lecture course
+the minor examinations are sixty minutes long and the major examination is one hundred twenty minutes long
+fractal courses with less than three credits must have at least one examination
+total weightage of examinations in fourteen week course ranges between forty percent to sixty percent of total evaluation
+evaluation policy must be communicated to students at the beginning of the course
+continuous evaluation includes classroom interaction quizzes assignments tutorials laboratory work term papers and projects
+student is awarded relative letter grade in each course based on performance compared to other students
+letter grades are mapped to grade points
+grade plus corresponds to grade point ten and indicates exceptional performance
+grade corresponds to grade point ten and indicates outstanding performance
+grade minus corresponds to grade point nine and indicates excellent performance
+grade corresponds to grade point eight and indicates very good performance
+grade minus corresponds to grade point seven and indicates good performance
+grade corresponds to grade point six and indicates average performance
+grade minus corresponds to grade point five and indicates below average performance
+grade corresponds to grade point four and indicates marginal performance
+grade corresponds to grade point two and indicates poor performance
+grade corresponds to grade point zero and indicates fail
+grade represents satisfactory performance in course
+grade plus has the same grade point as grade but indicates exceptional performance within the course
+grade plus is not awarded for projects or seminars
+grade is awarded when student scores below the cutoff marks for grade and does not meet attendance criteria
+students with grade are allowed to appear in an additional examination
+if student performs satisfactorily in the additional examination the grade is converted to otherwise it remains
+students with grade may opt for grade and appear for additional examination within the first week of the next semester
+the additional examination date is decided by the institute for undergraduate courses and by course coordinators for other courses
+student may appear for additional examination only once
+if student with grade opts for grade the student must clear the course in the additional examination otherwise the grade remains
+grades and are not counted in sgpa calculation but are counted in cgpa calculation
+grade is temporary grade awarded for incomplete performance due to reasons such as medical emergency
+requests for grade must be made before the last day of major examination
+students with grade must complete course requirements within specified time in the next semester
+grade is converted to regular grade after completion of requirements
+grade is awarded for satisfactory performance in non graded or audit courses
+grades in audit courses are not included in sgpa or cgpa calculations
+grade is awarded for satisfactory performance in thesis continuation
+grade is awarded for unsatisfactory performance in thesis or non graded courses
+grade is awarded when student withdraws from course
+withdrawal from course is allowed until the date specified in the academic calendar
+evaluation calendar is displayed by instructors at the start of the semester
+students are allowed to view answer sheets and scores provided by instructors
+final grades are moderated by department or institute level committees
+grade recommendations are made by the head of the department after scrutiny of grades by moderation committee
+grade corrections if any can be made within forty eight hours after display of grades with approval of the head of the department
+grades are approved by the dean academics undergraduate or postgraduate
+finalization of results is done by the dean undergraduate or postgraduate
+results are approved by the chairman senate
+approved results cannot be changed except in exceptional cases with formal appeal to the chairman senate
+semester grade point average is the weighted average of grades earned by student in all courses in semester
+sgpa reflects academic performance in semester
+sgpa is calculated using grade points and course credits
+sgpa equals sum of grade point multiplied by course credit divided by total credits
+sgpa excludes audit courses and courses with grade
+cumulative grade point average indicates overall academic performance up to the latest completed semester
+cgpa is calculated similarly to sgpa but considers all completed semesters
+cgpa is based on all pass grades including minus minus minus and
+cgpa excludes audit courses and courses with grade
+sgpa and cgpa calculations are based only on credits earned at the institute
+grade card is issued to each student at the end of every semester
+transcript is issued at the end of the programme
+the transcript includes course details credits and grades completed at the institute
+the transcript also includes total credits earned in semester if applicable
+waiver of academic requirements may be granted in special circumstances
+waivers are recommended by the department with approval of the chairman senate
+all waivers must be reported to the senate
+student who misses minor or major examinations due to genuine reasons such as illness may be allowed to take make up examination
+the student must apply to the dean academics through the course instructor within ten days of the missed examination
+applications submitted after ten days may not be considered
+permission for make up examination is granted only in exceptional circumstances such as hospitalization
+students must provide supporting medical documents to justify absence
+students residing in hostels must submit medical certificate issued by the institute medical officer confirming hospital admission
+students residing in hostels and consulting outside doctors must obtain prior permission from the institute medical officer
+students consulting outside doctors must also get their treatment certificate endorsed by the institute medical officer
+students staying outside campus must submit medical certificate from registered medical practitioner endorsed by parent or guardian
+make up examinations for major exams are conducted during the makeup or supplementary week of the next semester as per academic calendar
+student who misses the scheduled make up examination is generally not given another opportunity
+in exceptional cases such as prolonged illness student may be allowed another make up examination with approval of chairman senate and dean academics
+such additional make up examination must be completed before the end of the first week of the next semester
+prorating of marks or attendance is not allowed for missed examinations under any circumstances
+iit jodhpur offers bachelor of technology programmes for undergraduate students
+undergraduate students can pursue minor or interdisciplinary area specializations or departmental area specialization
+students may opt for tech dual degree in departmental area or minor in entrepreneurship leading to tech in entrepreneurship
+students may also pursue departmental area specialization in engineering innovation
+admissions to tech programmes are conducted once year in july through joint entrance examination
+admission procedures and requirements are specified in the jee information brochure
+foreign nationals may be admitted through cultural exchange fellowship program administered by indian council of cultural relations
+students interested in cultural exchange programmes must apply through indian high commission or embassy
+student admitted to tech programme may change branch to another department
+students may enhance their programme through minor interdisciplinary specialization or departmental specialization leading to tech degrees
+rules for branch change and programme enhancement are defined in respective sections
+reservation policy follows government of india guidelines
+student exchange program allows students to study at another academic institution for one or two semesters
+exchange students must be full time students enrolled in degree program at their home institution
+exchange programs are conducted based on pre approved agreements between institutions
+selection of students for exchange program is done by dugc based on preparedness and relevance of coursework or research
+exchange students may take courses or conduct research at the host institution
+students from iit jodhpur may transfer up to twenty credits per semester from another institution under exchange program
+students must apply for credit waiver after returning and submit transcripts and relevant documents
+dugc evaluates equivalence of courses and recommends credit waiver
+course equivalence committee approves final credit transfer decisions
+transcripts from other institutions may be used by students as part of their academic record
+iit jodhpur transcripts include only courses credits and grades completed at the institute and total credits earned elsewhere without grades
+cgpa calculation considers only credits earned at iit jodhpur
+credits earned at other institutions count toward minimum credit requirement for degree completion
+visiting student is student enrolled in another institution who completes part of academic requirements at iit jodhpur
+visiting students may take courses conduct research or use academic facilities
+visiting students must apply through sponsored application to the dean academics
+visiting students may be admitted for maximum duration of one year
+visiting students must pay applicable fees based on program status and nationality
+visiting students are governed by institute rules regulations and discipline
+students must submit required documents such as mark sheets and certificates by the deadline specified in academic calendar
+failure to submit required documents may result in cancellation of admission
+admission may also be cancelled if false information or suppression of facts is detected
+admission requires eligibility completion of admission procedure and payment of prescribed fees
+all undergraduate admissions must be approved by the senate
+credits for course are calculated based on number of lectures tutorials and practical hours
+each credit corresponds to expected student contact hours and self learning hours
+one hour of lecture per week corresponds to one credit
+one hour of tutorial per week corresponds to one credit
+two hours of practical work per week correspond to one credit
+project work credits are based on student involvement in laboratory design or discussion activities
+ltp structure defines lecture tutorial and practical distribution for course
+total course credits are calculated from total contact and beyond contact hours
+undergraduate students can opt for capability linked opportunities such as major departmental specialization interdisciplinary specialization minor and tech tech dual degree
+student must complete eligibility criteria to opt for specialization or minor
+student must have earned at least one hundred credits with cgpa greater than or equal to six point zero to opt for specialization or minor
+tech plus tech dual degree students must have earned at least one hundred thirty four credits with cgpa greater than or equal to six point zero at the end of seventh semester
+student must complete twenty credits in chosen specialization such as major departmental specialization interdisciplinary specialization or minor
+out of twenty credits up to ten credits can be from open electives
+remaining credits must be completed through additional courses
+additional courses must be completed to fulfill specialization requirements
+specialization and minor courses are indicated in the degree upon completion
+from the sixth semester students with at least eighty credits and cgpa greater than or equal to six point zero can register for additional credits beyond normal academic load
+students may register for up to four extra credits per semester which may include learning components
+additional learning components can be taken every semester beyond prescribed courses
+tech plus tech dual degree students must complete total of fifty six credits in minor department or interdisciplinary specialization
+these credits include project credits for major departmental or interdisciplinary specialization
+course categories include institute core programme linked programme core open specialization tech minor department interdisciplinary and non graded courses
+institute core courses include engineering science humanities and science components
+engineering courses require thirty four credits in tech regular and tech with specialization
+science courses require sixteen credits in tech regular and tech with specialization
+humanities courses require twelve credits in tech regular and tech with specialization
+programme linked science courses require seven credits across programmes
+programme core includes compulsory courses programme electives and project based electives
+compulsory courses require zero credits in tech regular and fifty credits in tech with specialization
+programme electives require eighteen credits in both tech regular and specialization
+project based electives require three credits in tech regular and specialization
+open electives require ten credits in tech regular and zero credits in specialization
+specialization elective courses require zero credits in tech regular and twelve credits in specialization and dual degree
+tech minor or departmental interdisciplinary components include electives projects and open electives
+tech minor electives require zero credits in tech regular and specialization and nine credits in dual degree
+project components require zero credits in tech regular and specialization and sixteen credits in dual degree
+open electives in this category require zero credits in tech regular and specialization and six credits in dual degree
+non graded courses include humanities engineering and design practical experience
+non graded humanities require six credits across programmes
+non graded engineering require three credits across programmes
+non graded design practical experience require six credits across programmes
+total graded credits required are one hundred fifty for tech regular one hundred sixty for tech with specialization and one hundred ninety six for dual degree
+total credits including non graded courses are one hundred sixty five for tech regular one hundred seventy five for tech with specialization and two hundred eleven for dual degree
+maximum duration for completion of tech programme is fourteen registered semesters
+minimum credits required for continuation after second semester are eighteen for general category and fourteen for sc st pd category
+if student does not meet continuation criteria the student must restart the programme or face termination of registration
+restart of programme is allowed only once
+dean undergraduate postgraduate may propose mentoring guidelines for students under probation
+credits earned in the first two semesters before restart are not counted toward graduation
+students must earn at least twelve credits in any registered semester to avoid academic probation
+students under probation must attend classes tutorials and mentoring sessions
+if student remains on academic probation for two consecutive semesters the registration may be terminated
+if student earns less than fifteen credits in semester the student is given warning and parents are informed
+two semesters under probation are counted toward total allowed duration of programme
+dual degree students may receive assistantship for institute research or teaching work
+assistantship is available only to students with valid gate qualification or cgpa greater than or equal to eight point zero
+assistantship requires students to assist faculty for eight hours per week
+assistantship continues only if student maintains cgpa greater than or equal to six point five
+students receiving assistantship are allowed up to thirty days leave during fourteen month period
+students with assistantship are not eligible for mid semester winter or summer vacations
+students must register for courses during summer term by paying prescribed fees
+summer term is not regular semester and is mainly for students with cgpa four point zero or less than advised credits
+summer term is also used by major minor and other students as per programme requirements
+students may register for summer courses up to maximum of eight credits by paying prescribed fees
+summer term is mainly for academically deficient students major students minor students and students needing up to eight credits to complete graduation requirements
+for core courses in summer only students with failed backlog are allowed initially
+remaining seats in summer courses may be offered to other students after priority categories are fulfilled
+summer courses have same contact hours as regular semester but run at accelerated pace
+evaluation and grading in summer courses follow the same pattern as regular semesters
+undergraduate students must register for minimum of twelve credits in semester
+maximum allowed credits for undergraduate students in semester is twenty five
+students may register for up to four credits per semester for independent study or self study courses
+students on academic probation may register for maximum of sixteen credits
+overloading is allowed only for students not on probation and meeting eligibility conditions
+students may overload if they need seventy or fewer credits to complete programme requirements
+students with cgpa greater than or equal to seven point five after second semester may overload
+student with cgpa greater than or equal to six at end of seventh semester may switch from tech to dual degree programme
+switch to dual degree is allowed at beginning of eighth semester after meeting requirements
+all dual degree requirements must be fulfilled after switching
+changes in registration must be reported to the senate
+tech project evaluation is conducted by committee appointed by dugc
+project evaluation is based on report and viva voce examination
+evaluation criteria for projects is defined and communicated by dugc
+dugc consists of faculty advisors and head of department as chairperson
+engineering innovation projects are evaluated based on report and viva voce and awarded letter grade
+design projects are evaluated based on report and viva voce and awarded satisfactory or unsatisfactory grade
+evaluation policy must be declared at the beginning of the course
+dual degree project supervisors are assigned based on student and supervisor preferences
+supervisor assignment must be completed by end of eighth semester
+tech program coordinator guides students until supervisor is assigned
+evaluation criteria for dual degree projects follows institute rules
+entrepreneurship projects are evaluated based on report and viva voce and awarded letter grade
+student may be terminated from programme for absence without authorized leave for eight weeks or more
+student may be terminated for failure to register without valid reason
+student may be terminated for violation of code of conduct including ragging
+student may be terminated for not earning minimum required credits within maximum duration
+student may be terminated for being on academic probation for two consecutive semesters
+terminated student may appeal to chairman senate for reconsideration with justification
+senate makes final decision on appeal and further appeal is not allowed without new information
+leave of absence must be applied to convener dugc with supporting documents such as medical certificate
+leave should normally be taken only with prior approval
+students are entitled to mid semester recess and vacation as per academic calendar
+short leave up to ten days may be granted on medical grounds and up to five days for other valid reasons
+absence for four or more weeks leads to semester withdrawal
+semester withdrawal may be approved by dugc and recorded by office of academics
+extended leave beyond one semester requires approval of academic committee
+medical semester withdrawal is not counted toward maximum duration of programme
+academic leave may be granted for fieldwork training entrepreneurship innovation exchange programs or internships
+academic leave requires approval of dugc
+maximum duration for academic leave is one summer term and two semesters
+students on academic leave may earn up to twenty credits per semester with approval
+branch change is allowed after second semester if eligibility criteria are met
+students must have cgpa greater than or equal to eight for general category or seven for sc st pd category
+students must complete all first year credits and have no backlog
+students must not have disciplinary action
+branch change is based on merit determined by cgpa
+branch strength must remain within eighty five percent to one hundred fifteen percent of sanctioned strength
+branch change conditions may be relaxed if vacancy exists and student was eligible through jee rank
+students with cgpa greater than or equal to nine may choose branch freely
+student is deemed to have completed graduation requirements if all prescribed conditions are fulfilled
+minimum duration of residence for tech including specialization is six semesters
+minimum duration of residence for tech tech dual degree is eight semesters
+student must earn minimum required credits as specified in academic requirements to be eligible for graduation
+degree is awarded only after obtaining no dues clearance from all concerned sections
+student must not have any disciplinary action pending to be eligible for graduation
+student must complete engagement in activities such as ncc nss nso arts sports or national cadet corps during the programme
+provisional certificate may be issued after completion of graduation requirements with approval of chairman senate
+provisional certificate may mention major minor department or interdisciplinary specialization
+degree certificate is awarded after approval by the board of governors and after convocation
+degree certificate includes specialization details such as major minor department or interdisciplinary specialization
+the senate reserves the right to amend curriculum procedures requirements and rules for tech programmes without prior notice
+iit jodhpur offers postgraduate programmes including master of science dual degree sc tech master of technology dual degree tech phd and doctor of philosophy phd
+postgraduate admissions are conducted during april may for semester one and november december for semester two
+phd admissions may also be conducted throughout the year on continuous basis
+candidates may be admitted under categories such as full time regular full time sponsored part time external and executive
+not all admission categories are applicable to all postgraduate programmes
+full time regular students study on campus and can register for full credit load per semester
+full time sponsored students are sponsored by employer or self and must have at least two years of relevant experience if self sponsored
+part time students are working professionals who attend classes while employed and must have employer permission
+part time students can register for limited credits compared to full time students
+external students work in organizations with research facilities and must fulfill residency requirements on campus
+executive tech students may complete programme in accelerated mode or accumulate credits over time up to six years
+executive students may attend courses through synchronized remote contact with limited physical interaction
+eligibility conditions for admission are minimum requirements and departments may impose additional criteria with senate approval
+number of admissions is decided by senate and reservation policy follows board of governors guidelines
+admission to sc programme is through jam examination or institute level written test or interview
+candidates applying through non jam route must have minimum sixty percent marks or cgpa six point zero for general and obc and fifty five percent or cgpa five point five for sc st
+equivalent proportional cgpa requirements apply for different grading scales
+admission to sc tech dual degree follows same criteria as sc admission
+admission to tech requires bachelor degree in engineering or science or relevant master degree
+tech applicants must have minimum sixty percent marks or cgpa six point zero for general and obc and fifty five percent or cgpa five point five for sc st
+tech applicants must have valid gate score or qualify equivalent examination or institute test or interview
+admission to tech executive part time external or sponsored requires minimum two years of work experience
+credit accumulation may begin after qualifying degree but degree can be awarded only after minimum duration
+admission to tech phd dual degree requires same eligibility as tech including academic qualifications and gate or equivalent qualification
+phd regular admission requires candidate not to be enrolled in any other programme or employed full time
+phd applicants must have master degree with minimum sixty percent marks or cgpa six point zero for general and obc and fifty five percent or cgpa five point five for sc st
+phd applicants may also qualify through professional degrees such as mbbs md ms bds mds and similar with required marks
+phd applicants with bachelor degree of four year duration must have at least seventy percent marks or cgpa seven point zero for general and obc and sixty five percent for sc st
+special admission schemes such as quality improvement programme or defence personnel are decided with senate approval
+indian nationals residing abroad must have stayed abroad for at least one year before applying
+foreign national applications are processed by departments and evaluated through interviews
+foreign candidates sponsored by iccr are evaluated by department and recommended to senate
+phd sponsored external and part time candidates must have minimum two years work experience and qualify institute selection process
+non degree students are enrolled temporarily from other institutions to complete coursework or research
+non degree students must meet eligibility criteria and apply through dean research and development
+non degree students follow institute rules and regulations
+reservation policy for postgraduate programmes follows government of india guidelines
+sc and sc tech students can register for maximum of twenty four credits and minimum of ten credits in semester
+tech and tech dual degree students must follow maximum and minimum credit limits as defined by programme rules
+tech regular semester executive accelerated students can register for maximum twenty four credits and minimum ten credits
+tech executive normal students can register for maximum seventeen credits and minimum ten credits
+tech executive slow paced students can register for maximum twelve credits and minimum three credits
+tech part time students can register for maximum twelve credits and minimum three credits
+tech full time regular or sponsored students can register for maximum seventeen credits and minimum ten credits
+tech external students can register for maximum twenty credits and minimum ten credits
+during summer term tech executive accelerated students can register for maximum sixteen credits and minimum zero credits
+tech executive normal students can register for maximum nine credits and minimum zero credits
+tech executive slow paced students can register for maximum six credits and minimum zero credits
+tech full time regular students can register for maximum nine credits and minimum five credits
+tech full time sponsored students can register for maximum nine credits and minimum zero credits
+tech external students can register for maximum nine credits and minimum zero credits
+tech part time students can register for maximum nine credits and minimum zero credits
+tech phd dual degree or direct phd students joining after tech can register credits equivalent to tech regular or external or part time students
+phd students must follow credit limits as specified in programme rules
+phd full time regular students can register for maximum twelve credits and minimum six credits
+phd external students can register for maximum twelve credits and minimum six credits
+student admitted to tech who has completed minimum credit requirement may register under reduced academic load status
+reduced academic load allows registration for fewer credits than normal requirements
+student must apply for reduced academic load before last date of registration through drc to dean academics
+student must pay appropriate registration fees for reduced academic load status
+student can remain under reduced academic load status for maximum of six semesters
+regular tech student with cgpa greater than or equal to eight after second semester may switch to tech phd dual degree programme before end of third semester
+in special cases student may switch to dual degree in fourth semester with approval of drc if cgpa is greater than or equal to eight
+students switching in fourth semester must complete candidacy requirements by end of fifth semester
+all rules of tech phd dual degree programme apply after switching
+all changes in registration must be reported to the senate
+part time tech student with cgpa greater than or equal to eight and at least twenty four credits may switch to phd programme
+credits earned during tech will be counted toward phd coursework requirements
+full time phd student may switch to part time or external phd programme
+student must complete candidacy requirements before switching to part time or external phd
+request for change must be endorsed by supervisor and drc
+student must provide no objection certificate from employer for research work
+maximum duration for sc programme is eight semesters
+maximum duration for tech programme including regular part time external and executive is twelve semesters
+tech duration may include up to six semesters of registration kept alive after first semester
+tuition fee during registration kept alive period is same as sponsored category
+maximum duration for phd and tech phd dual degree is fourteen semesters
+phd duration may include up to six semesters of registration kept alive after two semesters
+students may apply for registration kept alive status through drc to dean academics
+students must follow course registration limits as defined in programme rules
+drc or irc must ensure that student does not register for course already completed in previous degree
+credits for postgraduate courses are based on lectures tutorials and practical hours
+each credit corresponds to expected student effort including contact hours and self learning
+one hour of lecture per week corresponds to one credit in sc programmes
+one hour of tutorial per week corresponds to one credit
+two hours of lab work correspond to one credit
+for tech and phd courses credit calculation may follow different total hour structures
+project and thesis credits depend on student involvement in research laboratory and discussion work
+masters programmes include course categories such as compulsory courses programme electives open electives project work and non graded courses
+sc students must complete minimum credits including compulsory courses programme electives open electives project and other components
+total credits required for sc programmes are approximately seventy seven credits depending on discipline
+tech students must complete minimum credits defined for each specialization including compulsory courses electives project and non graded components
+total credits required for tech programmes range approximately between sixty to sixty two credits depending on specialization
+dual degree sc tech credit requirement is cumulative sum of both programmes
+dual degree tech phd credit requirements are defined separately for each specialization
+tech phd dual degree students must complete compulsory courses electives project and non graded components as per programme structure
+drc or irc must ensure that students do not repeat courses already completed in previous degrees
+phd students must complete minimum course credits as specified based on prior qualification
+phd students from engineering background with tech or equivalent must complete minimum twelve course credits and forty eight thesis credits
+phd students with sc in science must complete thirty course credits and forty eight thesis credits
+phd students with tech or equivalent must complete thirty course credits and forty eight thesis credits
+phd students from science humanities or social sciences must complete twelve course credits and forty eight thesis credits
+cgpa requirements are defined for continuation and graduation in each programme
+sc students require cgpa of five point zero for graduation
+tech students require cgpa of five point zero for continuation and graduation
+dual degree sc tech students require cgpa of five point zero
+dual degree tech phd students require cgpa of seven point zero for continuation and graduation
+phd students require cgpa of seven point zero for continuation and seven point five after coursework completion for graduation
+sc students must earn at least twenty credits by end of second semester for continuation
+assistantship continuation requires minimum cgpa thresholds
+tech students require cgpa of six point five for assistantship continuation
+dual degree students require cgpa of seven point zero for assistantship continuation
+phd students require cgpa of seven point zero for assistantship continuation
+leave of absence must be applied to convener drc with supporting documents such as medical certificate
+leave should normally be taken with prior approval of drc
+maximum leave allowed is thirty days in an academic year including medical leave and mid semester break
+phd students cannot take leave for more than fifteen days at stretch
+tech and sc students cannot take leave for more than ten days at stretch
+leave beyond thirty days may be granted in exceptional cases without assistantship
+maternity leave for phd students is allowed as per government guidelines and is not counted toward programme duration
+absence of four or more weeks results in semester withdrawal
+fellowship is stopped during withdrawal and resumes after rejoining
+extended leave beyond one semester requires approval of academic committee
+medical withdrawal is not counted toward maximum programme duration
+academic leave may be granted for fieldwork library work experimental training conferences collaboration exchange programmes or internships
+academic leave must be approved by src drc or irc
+maximum duration of academic leave is one year
+students on academic leave may earn up to twelve credits per semester
+financial assistance is provided to eligible full time students
+sc students receive merit cum means fellowship as per institute norms
+sc tech dual degree students with cgpa greater than or equal to eight or valid gate may receive financial assistance
+tech students with gate qualification may receive financial assistance
+executive tech students are not eligible for financial assistance
+tech phd dual degree students follow phd financial assistance rules
+phd students are eligible for financial assistance as per institute norms
+phd students with gate net jrf nbhm or equivalent may receive financial assistance
+gate requirement may be waived for tech qualified students
+phd students may receive enhanced fellowship after completing qualifier requirements
+assistantship stops after thesis submission
+tech and sc project supervisors are assigned based on student and faculty preferences
+supervisor assignment must be completed by end of first semester
+project evaluation is conducted by committee including drc supervisor and external members
+evaluation is based on report and viva voce examination
+tech project part one must be registered after second semester and requires satisfactory performance to continue
+phd student selection is based on merit and research capability
+supervisors are assigned after admission based on preferences
+maximum two supervisors are allowed normally
+external supervisors may be appointed with approval and must sign agreements
+caretaker or additional supervisors may be assigned during supervisor absence
+drc consists of programme coordinators head of department and senior faculty members
+irc consists of idrp coordinators and senior faculty members
+student research committee consists of supervisor and three faculty members including external member
+src monitors student progress throughout programme
+annual progress monitoring is conducted once per year based on report and presentation
+two consecutive unsatisfactory progress results lead to termination
+phd students must complete qualifier requirements including coursework comprehensive exam state of art seminar and research proposal
+qualifier requirements should be completed by fifth semester and no later than sixth semester
+part time phd students must complete qualifier by seventh semester
+comprehensive examination consists of written tests covering multiple subject areas
+students must pass all papers in comprehensive exam
+state of art seminar evaluates understanding of research field and patent landscape
+research proposal is evaluated based on report and presentation
+phd candidacy is granted after completion of qualifier requirements
+only candidates with phd candidacy can submit thesis
+tech phd dual degree students may convert to part time phd under certain conditions
+student registration may be cancelled for unsatisfactory progress or exceeding maximum duration
+synopsis includes seminar and internal assessment before thesis submission
+students must submit synopsis and thesis within six months of seminar
+extension of three months may be granted if required
+students must have at least one publication before thesis submission
+thesis examiners are selected based on expertise and experience
+at least one external examiner must be from outside india
+thesis defense includes public presentation and viva voce
+if thesis is accepted phd degree is awarded after approval
+if thesis is rejected registration is cancelled
+if revision is required thesis must be resubmitted within six months
+final recommendation for phd degree is made by dean academics to senate
+minimum residential requirement for sc programme is four semesters
+minimum residential requirement for sc tech dual degree programme is seven semesters
+minimum residential requirement for tech full time regular or sponsored programme is three semesters
+minimum residential requirement for tech part time programme is zero semesters
+minimum residential requirement for tech executive programme is one semester
+minimum residential requirement for phd full time regular in engineering discipline with tech or equivalent is two semesters
+minimum residential requirement for phd full time regular in engineering discipline with sc degree is five semesters
+minimum residential requirement for phd full time regular in engineering discipline with tech or equivalent is five semesters
+minimum residential requirement for phd in science humanities or social science discipline with sc ma or phil is two semesters
+minimum residential requirement for phd part time programme is zero semesters
+minimum residential requirement for phd external programme is one semester
+student is considered to have fulfilled academic requirements after earning minimum credits as defined for each programme and meeting minimum cgpa requirements
+minimum credit requirements are defined separately for sc tech sc tech dual degree tech phd dual degree and phd programmes
+degree is awarded only after obtaining no dues clearance from all concerned sections as required by dean academics
+student is not considered to have completed academic requirements if any disciplinary case is pending
+student who fulfills all graduation requirements may be issued provisional certificate with approval of chairman senate
+provisional certificate is issued by the office of dean academics
+student who fulfills all requirements is recommended by senate to board of governors for award of degree
+degree is awarded only after approval by board of governors during convocation
+the senate reserves the right to amend rules regulations and requirements of postgraduate programmes without prior notice
+academic programmes at indian institute of technology jodhpur are designed to develop high calibre human resources capable of understanding new patterns of knowledge creation across disciplines
+academic programmes aim to remove traditional boundaries between science humanities social sciences and engineering
+iit jodhpur aims to produce professionals capable of addressing societal challenges such as energy food water housing mobility and health
+the institute focuses on imparting scientific knowledge along with human qualities such as courage integrity fairness humility and teamwork
+academic programmes focus on lifelong learning creative thinking and exploration
+postgraduate programmes focus on deep understanding of subjects along with inquisitiveness and problem solving ability
+academic programmes are based on semester system credit system and relative grading
+academic programmes are administered by academic committee through office of academics
+academic committee is chaired by dean academics
+associate dean academics postgraduate or undergraduate performs duties in absence of dean academics
+senate formulates guidelines to maintain academic standards and smooth functioning
+programmes may include additional academic requirements with senate approval
+academic programmes are continuously monitored and improved by senate
+academic session runs from end of july to middle of july of next year
+academic session consists of two regular semesters and one summer term
+semester one runs from fourth week of july to last week of november
+semester two runs from last week of december to last week of april
+summer term runs from middle of may to middle of july
+each semester has at least seventy days of instruction excluding examinations
+academic calendar provides schedule of events such as orientation registration classes exams and results
+academic calendar includes course registration add drop submission of documents project evaluation and vacation periods
+students must register for prescribed credits as per programme on specified dates
+students who miss registration deadline may register late by paying fine
+students awaiting final results may register provisionally with certificate from previous institute
+provisional registration must be regularized by submitting proof of passing qualifying examination before deadline
+students who fail to register even after late registration are deregistered
+appeal against deregistration can be made to chairman senate through dean academics
+chairman senate may allow continuation of registration with fine
+students may add or drop courses with approval of faculty advisor until last registration date
+students may withdraw from courses after add drop period within specified time
+withdrawn courses are recorded with grade in grade card
+absence for four or more weeks results in cancellation of semester registration
+departments may offer summer courses for backlog or additional credits
+summer courses are offered only if faculty is available and require approval of dean
+all courses have associated credits based on lecture tutorial and practical contact hours
+student earns credits after successful completion of course with passing grade
+courses are assigned levels based on required academic maturity
+course may consist of independent components called fractals which can be completed independently
+each course is identified by unique course code
+course code structure includes department code course type level unique identification number and fractal indicator
+department code represents offering department or interdisciplinary research platform
+course type represents category of course
+unique identification number is assigned centrally by office of academics
+fractal indicator represents fractal level such as regular fractal one fractal two and fractal three
+engineering mechanics is regular course with ltp two one zero and course code mel xx
+robotics is regular course with ltp three zero two and course code mel xx
+robot modelling is fractal course level one with ltp one zero zero and course code mel xx
+motion planning and programming is fractal course level two with ltp one zero zero and course code mel xx
+robot control is fractal course level three with ltp one zero zero and course code mel xx
+mechanical engineering is represented by code me
+computer science and engineering is represented by code cs
+electrical engineering is represented by code ee
+civil and infrastructure engineering is represented by code ci
+chemical engineering is represented by code ch
+bioscience and bioengineering is represented by code bb
+metallurgical and materials engineering is represented by code mt
+humanities and social science is represented by code hs
+digital humanities is an interdisciplinary research platform
+space science and technology is an interdisciplinary research platform
+internet of things and applications is an interdisciplinary research platform
+robotics and mobility systems is an interdisciplinary research platform
+quantum information and computation is an interdisciplinary research platform
+smart healthcare is an interdisciplinary research platform
+school of management and entrepreneurship is school
+school of artificial intelligence and data science is school
+office of academics is an administrative unit
+office of students is an administrative unit
+lecture courses may include tutorial and practical components with defined ltp structures
+practical courses are evaluated based on laboratory or practical work
+project based courses include major minor and mini projects
+non graded courses are core components without grading
+seminar courses are offered as presentations
+independent study allows self directed learning
+product realization courses involve practical development
+engineering design courses may be graded or non graded
+level one hundred courses are for tech programmes
+level two hundred courses are for tech programmes
+level three hundred courses require minimum credits in tech programmes
+level four hundred courses require higher credit thresholds in tech programmes
+level five hundred courses are preparatory courses for sc and tech programmes
+level six hundred courses are for sc programmes
+level seven hundred courses are for tech programmes and advanced sc courses
+level eight hundred courses are advanced courses for tech and phd programmes and require level seven hundred prerequisites
+courses are approved by senate along with their credit weight and only approved courses can be offered in any semester or summer term
+the list of courses for programme is finalized before the semester by the hosting department
+courses can be categorized as regular self study or independent study
+regular course requires fourteen hours of classroom engagement per credit
+regular courses may be elective or compulsory
+elective courses of level one hundred to six hundred require minimum ten students to run
+elective courses of level seven hundred or eight hundred require minimum five students to run
+courses not running as regular may be offered as self study courses
+self study courses must be from senate approved course list
+students may register for self study elective courses if the course is not running or if the student is not on campus with approval
+students may register for core courses in self study if previously failed and not offered in that semester
+self study courses require recommendation from course coordinator and academic committees and approval from dean academics
+self study courses may not have formal classroom teaching but may include lab design and computation work
+self study courses are evaluated by course coordinator and assigned letter grade
+self study credits cannot exceed ten percent of total graded credits
+self study courses appear on transcript with approved course title
+independent study allows students to pursue academic topics under faculty supervision
+independent study requires self discipline and clear academic direction
+students with cgpa greater than or equal to six may opt for independent study
+independent study is limited to maximum three credits and allowed once during programme
+independent study counts toward open elective requirements
+independent study appears on transcript with title independent study
+independent study requires approval from course coordinator academic committees and dean academics
+independent study may not include formal lectures but may include lab design and computation work
+independent study is planned and managed by supervising professor
+courses are conducted by instructor with support of tutors
+instructor is responsible for teaching evaluation grading and submission of grades
+students can access their answer sheets after examinations
+instructor must retain evaluation records for at least six months
+courses may be conducted through direct contact remote contact or guided study modes
+direct contact involves face to face teaching
+remote contact involves real time online interaction with audio and video
+remote mode requires partial physical interaction typically around twenty five percent of total hours
+guided study involves supervised self learning and discussion sessions
+guided study can be used for new or approved courses under faculty supervision
+all evaluations must be conducted under direct physical supervision
+laboratory components must be conducted through direct contact mode
+teaching assignments are decided by head of department
+faculty from other departments may be involved with consultation between departments
+students may audit courses with permission from dean academics and recommendations from instructor and advisor
+audited courses are listed in grade card
+students are expected to attend all lectures tutorials and lab sessions
+attendance records must be shared after each lecture
+students with attendance below seventy five percent can still appear for exams
+students below seventy five percent attendance must obtain at least grade to pass
+students below required marks are awarded grade
+student performance is evaluated through continuous assessment and examinations
+evaluation includes classroom interaction quizzes assignments tutorials lab work term papers and projects
+minor one minor two and major exams are mandatory for regular courses
+minor exams are sixty minutes and major exam is one hundred twenty minutes
+fractal courses must have at least one examination
+examinations contribute forty to sixty percent of total evaluation weight
+evaluation policy must be communicated from first day of class
+students are awarded relative letter grades at the end of semester based on performance compared to other students in the course
+ten regular letter grades are used including star minus minus minus and
+each letter grade corresponds to numerical value on ten point scale
+grade star corresponds to ten points and indicates exceptional performance
+grade corresponds to ten points and indicates outstanding performance
+grade minus corresponds to nine points and indicates excellent performance
+grade corresponds to eight points and indicates very good performance
+grade minus corresponds to seven points and indicates good performance
+grade corresponds to six points and indicates average performance
+grade minus corresponds to five points and indicates below average performance
+grade corresponds to four points and indicates marginal performance
+grade corresponds to two points and indicates poor performance
+grade corresponds to zero points and indicates failure
+grade represents satisfactory performance in course or audit course
+grade represents withdrawal from course
+grade star has same grade points as grade but indicates exceptional performance within the course
+grade star is not awarded for projects or seminars
+grade is awarded when student scores below cutoff for grade or does not meet attendance criteria
+students with grade may appear for additional examination
+if performance improves grade may be converted to grade otherwise remains grade
+students may opt for grade instead of grade and attempt additional examination in next semester
+students have only one chance for additional examination
+grade or requires repeating the course if core or taking alternative course if elective
+grades and are not counted in sgpa but are included in cgpa
+grade is temporary and given for incomplete performance due to valid reasons
+students must complete requirements for grade within specified time in next semester
+grade is converted to regular grade after completion
+grade is awarded for satisfactory performance in non graded or audit courses
+audit course grades are not counted in sgpa or cgpa
+grade is awarded for continuation in thesis work
+grade is awarded for unsatisfactory performance in thesis or non graded courses
+grade is awarded when student withdraws from course within allowed period
+evaluation scheme is displayed by instructors at the beginning of the semester
+students are allowed to view answer sheets and scores provided by instructors
+grades are finalized by instructors after evaluation
+grades may be moderated by department or institute level committees
+head of department reviews and recommends grades after moderation
+grade corrections may be made within forty eight hours with approval of head of department
+grades are approved by dean academics or associate dean
+approved results cannot be changed except in exceptional cases with formal appeal to chairman senate
+semester grade point average represents weighted average of grades earned in semester
+sgpa reflects academic performance in semester
+sgpa is calculated using grade points and course credits
+sgpa excludes audit courses and courses with grades or
+cumulative grade point average represents overall academic performance across semesters
+cgpa is calculated using all completed courses and their credits
+cgpa includes all passing grades from star to
+cgpa excludes audit courses and courses with grades or
+sgpa and cgpa calculations consider only credits earned at the institute
+grade card is issued at the end of each semester
+transcript is issued at the end of the programme
+transcript includes courses credits and grades completed at the institute
+transcript also includes total credits earned at other institutions without grades
+academic requirements may be waived in special cases with approval of academic committee and chairman senate
+students who miss minor or major examinations due to valid reasons may take make up examination
+students must apply for make up examination within ten days through course instructor to dean academics
+make up examination is allowed only in exceptional cases such as hospitalization
+students must provide valid medical documents to support absence
+hostel students must submit medical certificate from institute medical officer
+students consulting outside doctors must obtain permission and endorsement from institute medical officer
+students living outside campus must submit medical certificate endorsed by parent or guardian
+make up examinations are conducted in supplementary week of next semester
+students missing make up examination are not given another chance normally
+in exceptional cases of prolonged illness another chance may be granted with approval of chairman senate
+additional make up examination must be completed before first week of next semester
+prorating of marks or attendance is not allowed for missed examinations
+iit jodhpur offers postgraduate programmes including sc sc tech dual degree tech tech phd dual degree and phd
+postgraduate admissions are conducted in april may for semester one and november december for semester two
+phd admissions may also be conducted throughout the year on continuous basis
+candidates can be admitted under categories such as full time regular full time sponsored part time external part time online part time project sponsored and executive
+not all admission categories apply to all programmes
+full time regular students study on campus and register for full credit load
+students supported by institute projects are considered full time regular
+full time sponsored students are sponsored by employer or self and must have at least two years of experience if self sponsored
+part time students are working professionals attending classes while employed and must provide no objection certificate from employer
+part time students can register for limited credits
+external students work in organizations with research facilities and must complete residency requirements on campus
+part time online students attend classes through synchronized audio visual mode and must spend at least twelve months on campus during programme
+part time online students must provide no objection certificate and employer support for research resources
+project sponsored students receive fellowship through institute projects and register for limited credits
+project sponsored students must receive fellowship for at least thirty six months
+project sponsored students pay fees similar to full time gate qualified students
+executive tech students may complete programme in accelerated mode or accumulate credits over time up to six years
+executive students may attend courses through remote mode with limited physical interaction
+eligibility conditions for admission are minimum requirements and departments may impose additional criteria
+number of admissions is decided by senate and reservation policy follows board of governors guidelines
+sc admission is through jam examination or institute level test or interview
+candidates must have minimum sixty percent marks or cgpa six point zero for general and obc and fifty five percent or cgpa five point five for sc st
+equivalent proportional cgpa requirements apply for other grading scales
+sc tech dual degree admission follows same criteria as sc
+tech admission requires bachelor degree in engineering or science or relevant master degree
+tech applicants must have minimum sixty percent marks or cgpa six point zero for general and obc and fifty five percent or cgpa five point five for sc st
+tech applicants must have valid gate score or equivalent qualification or pass institute test or interview
+tech executive part time external or sponsored applicants must have at least two years of work experience
+degree can be awarded only after minimum duration even if credits are accumulated earlier
+tech phd dual degree admission requires same eligibility as tech
+phd regular applicants must not be enrolled in another programme or employed
+phd applicants must have master degree with minimum sixty percent marks or cgpa six point zero for general and obc and fifty five percent or cgpa five point five for sc st
+phd applicants may qualify through professional degrees such as mbbs md ms bds mds and similar
+phd applicants with bachelor degree must have at least seventy percent marks or cgpa seven point zero for general and obc and sixty five percent for sc st
+special admission schemes such as quality improvement programme or defence personnel are decided with senate approval
+indian nationals residing abroad must have stayed abroad for at least one year before applying
+foreign applications are processed by departments and evaluated through interviews
+foreign candidates sponsored by iccr are evaluated and recommended to senate
+phd sponsored external and part time applicants must have minimum two years work experience and qualify institute selection process
+non degree students are registered temporarily to complete coursework or research
+casual students can register up to nine credits in semester
+casual students receive course completion certificate and grades after completion
+casual students may accumulate credits for certificate or diploma
+non degree students follow institute rules and regulations
+reservation policy follows government of india guidelines pg registration
+maximum and minimum number of credits student can register in different programs
+sc student can register for maximum of credits and minimum of credits in semester
+tech student registration limits depend on category and semester type
+regular semester credit limits for tech
+executive accelerated maximum minimum executive normal maximum minimum executive slow paced maximum minimum executive part time maximum minimum full time regular or sponsored maximum minimum external maximum minimum part time maximum minimum
+executive accelerated maximum minimum executive normal maximum minimum executive slow paced maximum minimum full time regular maximum minimum full time sponsored maximum minimum external maximum minimum part time maximum minimum
+tech phd dual degree and direct phd students have same credit limits as tech students depending on category
+full time regular maximum before qualifier and after qualifier minimum external maximum before qualifier and after qualifier minimum part time maximum before qualifier and after qualifier minimum
+student admitted to tech program who has completed minimum credit requirement of first semester can keep studentship alive without academic activity by opting for rka in subsequent semesters
+student must indicate intent for rka before last date of late registration through drc to dean academics
+student must pay appropriate registration fees for rka status
+change of registration from tech regular programme to tech part time programme
+full time regular tech student may be allowed to change registration to part time tech after successful completion of third semester
+student must get approval from supervisor and drc
+student must provide no objection certificate from employer for carrying out research work
+change of registration from tech programme to tech phd dual degree programme
+regular tech student with cgpa or more at the end of second semester may switch to tech phd dual degree till end of third semester
+in special cases switching is allowed in fourth semester with drc approval if cgpa is or more
+student must complete candidacy requirements by end of fifth semester
+all rules of dual degree programme apply after switching
+change of registration from part time tech to part time phd programme
+part time tech student with cgpa or more and at least completed credits may switch to phd
+earned credits will be counted towards phd coursework
+change of registration from full time to part time or external phd programme
+full time phd student may change to part time phd
+student must complete candidacy requirements
+student must get approval from supervisor and drc
+student must provide no objection certificate from employer
+sc maximum duration is registered semesters
+tech regular part time external and executive maximum duration is registered semesters including up to semesters of registration kept alive
+tuition fee after rka is same as sponsored candidates
+phd and tech phd dual degree maximum duration is registered semesters including up to semesters of rka after first two semesters
+students may request rka through drc to dean academics
+students register for courses based on limits defined earlier
+drc or irc ensures that students do not repeat similar courses from previous degrees
+academic load and calculation of credits for pg programmes
+credits are calculated based on lecture tutorial and practical hours
+each credit corresponds to contact hours and expected self learning hours
+one hour lecture equals contact hour beyond contact hours total hours giving credit
+one hour tutorial equals contact hour beyond contact hours total hours giving credit
+one hour lab equals contact hour beyond contact hours total hours giving credit
+one hour project equals contact hour beyond contact hours total hours giving credit
+project contact hours include lab work and discussion
+one hour lecture equals contact hour beyond contact hours total hours giving credit
+one hour tutorial equals contact hour beyond contact hours total hours giving credit
+one hour lab equals contact hour beyond contact hour total hours giving credit
+one hour project equals contact hour beyond contact hours total hours giving credit
+one hour phd thesis equals contact hour beyond contact hours total hours giving credit
+project contact hours include lab work and discussion
+course categories for masters programmes
+academic credit requirements for sc students
+minimum credits required for sc programmes
+sc chemistry requires credits in compulsory courses in programme electives in open electives in project total credits
+sc mathematics requires compulsory programme electives open electives project total credits
+sc physics requires compulsory programme electives open electives project total credits
+sc digital humanities requires compulsory programme electives open electives project total credits
+sc computational social science requires programme compulsory specialization elective or stream elective open electives project total credits
+academic credit requirements for tech students and executive tech
+minimum credits required for tech programmes
+tech sensors and internet of things requires compulsory programme electives open electives project non graded total credits
+tech cyber physical system requires compulsory programme electives open electives project non graded total credits
+tech thermofluids engineering requires compulsory programme electives open electives project non graded total credits
+tech advanced manufacturing and design requires compulsory programme electives open electives project non graded total credits
+tech materials engineering requires compulsory programme electives open electives project non graded total credits
+tech artificial intelligence requires compulsory programme electives open electives project non graded total credits
+tech computer science and engineering requires compulsory programme electives open electives project non graded total credits
+tech bioscience and bioengineering requires compulsory programme electives open electives project non graded total credits
+tech data and computational sciences requires compulsory programme electives open electives project non graded total credits
+tech intelligent communication systems requires compulsory programme electives open electives project non graded total credits
+tech augmented reality and virtual reality requires compulsory programme electives open electives project non graded total credits
+tech chemical engineering requires compulsory programme electives open electives project non graded total credits
+tech intelligent vlsi systems requires compulsory programme electives open electives project non graded total credits
+tech infrastructure engineering with specialization in environmental engineering requires specialization stream electives programme electives project non graded total credits
+tech civil and infrastructure engineering with major in energy requires specialization stream electives programme electives project non graded total credits
+tech robotics and mobility systems requires compulsory micro specialization core programme electives open electives project non graded total credits
+academic credit requirements for sc tech dual degree
+minimum credits required for dual degree is cumulative sum of sc and tech programme credit requirements
+academic credit requirements for tech phd dual degree
+minimum credits required for tech phd dual degree programmes
+tech phd dual degree sensors and internet of things requires compulsory programme electives open electives project non graded total credits
+tech phd dual degree cyber physical system requires compulsory programme electives open electives project non graded total credits
+tech phd dual degree communication and signal processing requires compulsory programme electives open electives project non graded total credits
+tech phd dual degree thermofluids engineering requires compulsory programme electives open electives project non graded total credits
+tech phd dual degree materials engineering requires compulsory programme electives open electives project non graded total credits
+tech phd dual degree computer science and engineering requires compulsory programme electives open electives project non graded total credits
+tech phd dual degree artificial intelligence requires compulsory programme electives open electives project non graded total credits
+tech phd dual degree bioscience and bioengineering requires compulsory programme electives open electives project non graded total credits
+tech phd dual degree intelligent communication systems requires compulsory programme electives open electives project non graded total credits
+tech phd dual degree advanced manufacturing requires compulsory programme electives open electives project non graded total credits
+tech phd dual degree mechanical design requires compulsory programme electives open electives project non graded total credits
+tech phd dual degree data and computational sciences requires compulsory programme electives open electives project non graded total credits
+tech phd dual degree chemical engineering requires compulsory programme electives open electives project non graded total credits
+tech phd dual degree infrastructure engineering with specialization in environmental engineering requires specialization stream electives programme electives project non graded total credits
+tech phd dual degree civil and infrastructure engineering with major in energy requires specialization stream electives programme electives project non graded total credits
+drc or irc must ensure that students do not register for similar courses taken during bachelors and must suggest alternative courses if required
+academic credit requirements for phd students
+minimum credits required for phd programmes
+phd in engineering discipline with tech me or sc in engineering requires credits through coursework and credits through thesis
+phd in engineering discipline with sc in science requires credits through coursework and credits through thesis
+phd in engineering discipline with tech be or sc in engineering requires credits through coursework and credits through thesis
+phd in science humanities or social science discipline with sc ma or mphil requires credits through coursework and credits through thesis
+phd students must complete compulsory non graded courses before open seminar
+courses already completed as non graded need not be repeated
+coursework requirements for interdisciplinary phd follow same structure as defined earlier
+phd students must maintain minimum cgpa as required for programme
+students may repeat limited credits of courses with poor grades
+maximum repeat allowed is credits for phd in departmental domains
+maximum repeat allowed is credits for phd in interdisciplinary domains or direct phd
+only courses with grade minus or lower can be repeated
+no replacement allowed for courses with passing grades above threshold
+minimum cgpa requirements for continuation and graduation
+tech requires cgpa for continuation and graduation
+dual degree msc tech requires cgpa
+dual degree tech phd requires cgpa for continuation and for graduation
+phd requires cgpa for continuation and after coursework completion for graduation
+degree grade point average for phd
+phd students with cgpa below graduation requirement may be evaluated using degree grade point average
+dgpa is calculated based on best performance over minimum required credits
+msc students must earn at least credits by end of second semester for continuation
+dual degree tech phd requires cgpa
+leave must be approved by drc and supported by medical certificate if required
+maximum leave is days per academic year including medical leave and mid semester break
+phd students cannot take more than days leave at stretch
+tech and sc students cannot take more than days leave at stretch
+leave beyond days may be granted without assistantship in exceptional cases
+maternity leave is allowed as per ministry guidelines and does not count towards programme duration
+other leave types follow ministry guidelines
+absence of four or more weeks results in automatic semester withdrawal
+fellowship stops during withdrawal and resumes after rejoining
+leave extending beyond semester requires academic committee approval
+medical withdrawal does not count towards programme duration
+academic leave allowed for fieldwork library work specialized training conferences collaborative research exchange programs
+students can earn up to credits per semester during academic leave
+financial assistance provided to eligible full time students
+msc students receive merit cum means fellowship
+msc tech dual degree students receive support if cgpa is at least or have qualified gate
+tech students with gate receive financial support
+executive tech students do not receive financial assistance
+tech phd dual degree students follow phd financial rules
+phd students receive financial assistance as per institute norms
+students with gate net jrf or equivalent are eligible
+gate requirement may be waived for tech graduates
+phd students receive enhanced fellowship after completing qualifier requirements
+no arrears for delayed completion of requirements
+assistantship continues until thesis defense or end of semester of submission
+students are allotted supervisors based on preferences
+supervisor must be assigned by end of first semester
+coordinator advises until supervisor assignment
+evaluation done each semester by committee including drc supervisor and external member
+external member may participate virtually
+tech students must register for project part one after second semester
+students are admitted without assigned supervisor initially
+supervisor assigned based on mutual preference
+maximum two supervisors normally allowed
+external supervisor allowed with approval and must sign ipr and nda
+no financial obligation to external supervisor
+caretaker supervisor assigned for short leave of main supervisor
+additional supervisor assigned for long leave
+supervisors on sabbatical or retirement may continue with conditions
+drc includes programme coordinators head of department and senior faculty
+irc includes interdisciplinary programme coordinators and senior faculty
+allowed in exceptional cases with consent of student current and proposed supervisor
+approved by drc or irc and dean academics
+src includes supervisor and at least three faculty members including external member
+chairman assigned for administrative role
+phd progress reviewed annually through report and poster presentation
+graded as satisfactory or unsatisfactory
+two consecutive unsatisfactory grades lead to termination
+scheduled twice yearly based on admission semester
+requirements include coursework completion comprehensive exam state of art seminar and research proposal defense
+must be completed by fifth or sixth semester depending on programme
+consists of three papers selected from available pool
+direct and part time phd within semesters
+student presents research domain overview including patent landscape
+must receive satisfactory grade before research proposal
+for dual degree students project presentation may count
+must include work equivalent to credits
+phd student is admitted to candidacy after completing all qualifier requirements
+only students admitted to candidacy are allowed to submit phd thesis
+regular phd comprehensive examination within semesters state of art seminar within semesters candidacy examination within semesters
+part time phd comprehensive examination within semesters state of art seminar within semesters candidacy examination within semesters
+direct phd comprehensive examination within semesters state of art seminar within semesters candidacy examination within semesters
+tech phd dual degree comprehensive examination within semesters state of art seminar within semesters candidacy examination within semesters
+relaxation in tech phd dual degree
+students completing qualifier requirements may convert to part time or external phd after years under exceptional conditions
+students may exit with tech degree if conditions are satisfied
+continuation of registration depends on satisfactory progress recommended by src
+registration may be cancelled if student progress is unsatisfactory or student fails to enroll
+registration may be cancelled if thesis is not submitted within maximum allowed duration
+synopsis includes open seminar and internal evaluation through pre synopsis report
+submission allowed only if src is satisfied with quality and quantity of research
+publications from thesis must be submitted with synopsis
+synopsis and thesis must be submitted within months of seminar
+extension of months may be granted by dean academics on src recommendation
+failure to submit within timeline requires re presentation of synopsis
+student must complete coursework comprehensive exam state of art seminar research work and synopsis before submission
+synopsis must be submitted through supervisor and head of department to academic section
+student must have at least two publications in indexed journals or top conferences for engineering and science disciplines
+requirements for humanities and management disciplines may differ
+supervisor proposes list of examiners including at least four international and four indian experts
+examiners must have at least years post phd experience
+no two examiners should be from same organization
+examiners may be faculty members or scientists of high standing
+chairman senate may request additional examiner names
+chairman senate selects at least two examiners including one international examiner
+consent must be obtained before sending thesis
+src and supervisor also act as examiners
+indian examiner attends thesis defense in person
+examiners must submit report within months
+if both examiners accept thesis student proceeds to defense
+if one examiner rejects thesis it may be sent to third examiner or registration may be cancelled
+if both examiners reject thesis no degree is awarded and registration is cancelled
+if revision is suggested student must resubmit within months
+after acceptance student defends thesis publicly
+defense evaluated by committee including src chairman supervisor and examiner
+on recommendation dean academics forwards case to senate for award of phd degree
+student is considered to have completed graduation requirements if all conditions in sections to are satisfied
+msc requires minimum semesters of residence
+msc tech dual degree requires minimum semesters of residence
+tech full time regular or sponsored requires minimum semesters of residence
+tech part time or part time executive requires semesters of residence
+tech executive requires minimum semester of residence
+phd engineering discipline with tech me or sc engineering requires minimum semesters of residence
+phd engineering discipline with sc science requires minimum semesters of residence
+phd engineering discipline with tech be or sc engineering requires minimum semesters of residence
+phd science humanities or social science discipline with sc ma or mphil requires minimum semesters of residence
+phd part time requires semesters of residence
+phd external requires minimum semester of residence
+student must complete minimum credits as defined for respective programmes
+student must satisfy cgpa requirements defined for programme
+student must obtain clearance from all concerned sections before degree award
+student must not have any pending disciplinary case
+student completing all requirements may receive provisional certificate with approval of chairman senate
+student is recommended by senate to board of governors for award of degree
+degree is awarded only after board of governors approval
+degree may be withdrawn in exceptional cases if violation of requirements is detected later
+senate reserves the right to modify rules and regulations of postgraduate programmes without prior notice
+mayank vatsa professor school phd west virginia university email mvatsa at iitj dot ac dot in biotech computer vision machine learning deep learning biometrics trusted ai call language web profile about
+mayank vatsa is professor at the indian institute of technology iit jodhpur fellow of ieee and iapr and member of the national academy of ai usa his research focuses on artificial intelligence with an emphasis on generative ai responsible ai computer vision and biometrics he is recipient of india prestigious swarnajayanti fellowship and the ieee meritorious service award he serves as co editor in chief of the ieee transactions on biometrics behavior and identity science journal he led the efforts to establish during his tenure as vice president of the ieee biometrics council he has also held senior roles at premier conferences like aaai cvpr iccv ijcb and fg dr vatsa has contributed in several of india key technology initiatives contributing to uidai aadhaar standards digiyatra the niti aayog responsible ai for all policy national biometric standards and the formation of the technology innovation hub at iit jodhpur
+richa singh richa singh professor school phd west virginia university email richa at iitj dot ac dot in biotech machine learning pattern recognition biometrics forensics trusted ai call language web profile about
+singh is professor in the department of computer science and engineering at the indian institute of technology iit jodhpur she earned her ph in computer science from west virginia university usa she is globally recognized leader in artificial intelligence and machine learning with focus on pattern recognition biometrics medical image analysis and responsible ai her contributions to the field have been recognized with the highest distinctions including being named fellow of the ieee iapr and indian national academy of engineering inae she is also an acm distinguished member and member of the national academy of ai usa prolific researcher prof singh has authored over publications in top tier venues which have garnered more than citations index her research program has attracted external grants exceeding rs crores she holds editorial leadership roles serving as the founding co editor in chief of acm ai letters and the associate editor in chief of the prestigious pattern recognition journal prof singh work has demonstrated profound real world impact her face recognition technology was instrumental in the challenging task of identifying victims of the balasore train accident while her deepfake detection systems were deployed to revent the spread of misinformation india general elections her contributions have been honored with numerous awards including the nasscom ai gamechangers award and the facebook award for ethics in ai she has supervised ph students to graduation ongoing phds and guided over tech and tech students she has strong record of service to the academic community notably serving as the program committee chair for cvpr becoming the first researcher from india to hold this position in the conference year history she regularly serves in leadership roles for premier conferences such as iccv eccv aaai and major biometrics venues
+avinash sharma associate professor emailavinashsharma at iitj dot ac dot in call schoolphd inria rhone alpes france computer vision human digitization and terrain modelling geometry processing graph spectral analysis applied ml for cogsci robotics gis
+debasis das debasis das associate professor school ph indian institute of technology patna email debasis at iitj dot ac dot in biotech vehicular ad hoc networks vanets systems artificial intelligence ai urban intelligence distributed deep learning cryptography and blockchain security call language web profile about
+dr debasis das is currently working as an associate professor in the department of computer science and engineering and associate faculty at the school of artificial intelligence and data science aide as well as coordinator of iot and applications inter disciplinary research platform idrp at indian institute of technology iit jodhpur rajasthan india his research interests include vehicular ad hoc networks vanets blockchain the internet of things iot machine learning ml artificial intelligence ai and quantum technology dr das published research papers in top international journals like ieee transactions acm transactions etc and top conferences dr das has sponsored projects and consultancy projects to his credit he has been awarded the early career research ecr award brics young scientist award young researcher award dst nsf project award nstc research project award from science engineering research board serb department of science technology dst moe nsf and nstc respectively he has many research collaborations with premier institutions in india and different universities across the globe he has been engaged in different academic activities inside and outside the institute he has supervised ph students and are currently pursuing their theses he has also supervised more than tech thesis he is senior member of ieee and vts and professional member of acm
+deepak mishra deepak mishra associate professor school phd indian institute of technology delhi email dmishra at iitj dot ac dot in biotech machine learning medical image analysis biomedical circuits and systems polarization imaging call language web profile about
+deepak mishra is an assistant professor in the department of computer science engineering at iit jodhpur
+dip sankar banerjee dip sankar banerjee associate professor school phd international institute of information technology hyderabad email dipsankarb at iitj dot ac dot in biotech high performance computing computer architecture data analytics call language web profile about
+dr banerjee is curently working as an associate professor in the department of computer science and engineering of iit jodhpur his research interests are broadly in the areas of high performance computing big data analytics accelerated computing and computer architectures previously he was post doctoral researcher at the network based computing laboratory of the ohio state university where he worked under the mentorship of prof dhabaleswar panda before that he completed my doctor of philosophy phd from international institute of information technology hyderabad in where he worked under the guidance of dr kishore kothapalli he was part of the center for security theory and algorithmic research cstar laboratory his phd research was broadly in high performance computing where he worked towards developing novel algorithms and implementations for heterogeneous computing platforms that could utilise multiple multi core and many core processors at the same time leading to better performance and higher system efficiency
+pallavi jain pallavi jain associate professor school phd dayalbagh educational institute deemed university email pallavi at iitj dot ac dot in biotech parameterized complexity and algorithms kernelization computational social choice theory graph algorithms call language web profile about
+pallavi jain is an assistant professor in the department of computer science engineering at iit jodhpur
+suchetana chakraborty suchetana chakraborty associate professor school phd indian institute of technology guwahati email suchetana at iitj dot ac dot in biotech wireless sensor and mobile ad hoc networks distributed systems ubiquitous computing edge computing and iot call language web profile suchetana chakraborty
+sumit kalra sumit kalra associate professor school phd indian institute of technology kanpur email sumitk at iitj dot ac dot in biotech software architecture data analytics iot smart healthcare call language web profile about
+sumit karla is an assistant professor in the department of computer science engineering at iit jodhpur
+yashaswi verma presently am faculty in the department of computer science engineering cse at indian institute of technology jodhpur iitj india
+previously was an inspire faculty fellow at indian institute of science bengaluru india
+before that completed my btech and phd from iiit hyderabad india
+note due to time constraints won be able to accept any application for internship short term engagement
+room no department of computer science and engineering
+note the following articles and associated data codes are made available under the creative commons cc by nc nd license
+random feature embeddings give strong baselines for extreme multi label text classification code link
+in international journal of data science and analytics asha rani rudra dutt and yashaswi verma
+multi view multi label canonical correlation analysis with dual correlations for cross modal multimedia retrieval code link
+in international journal of multimedia information retrieval asha rani and yashaswi verma
+multi view multi label canonical correlation analysis for cross modal multimedia retrieval code link
+in multimedia tools and applications asha rani rushil sanghavi and yashaswi verm
+early stage autism diagnosis using action videos and contrastive feature learning code link view pdf
+in multimedia systems asha rani pankaj yadav and yashaswi verma
+retrieval based approach for diverse and image specific adversary selection link pdf
+in ijmir rajvardhan singh ravat and yashaswi verma
+diverse image annotation with missing labels code link pdf
+automatic image annotation the quirks and what works code link pdf
+in mta ayushi dutta yashaswi verma and jawahar
+cross specificity modelling data semantics for cross modal matching and retrieval link pdf
+in ijmir yashaswi verma abhishek jha and jawahar
+image annotation by propagating labels from semantic neighbourhoods code link pdf
+in ijcv yashaswi verma and jawahar
+support vector approach for cross modal search of images and texts code link pdf
+in cviu yashaswi verma and jawahar
+activity based early autism diagnosis using multi dataset supervised contrastive learning approach link
+in wacv asha rani and yashaswi verma
+cross modal retrieval using contrastive learning of visual semantic embeddings code link arxiv
+in icpr anurag jain and yashaswi verma
+surprising effectiveness of random feature embeddings in extreme classification code link arxiv
+multi view multi label canonical correlation analysis for cross modal matching and retrieval code link pdf
+in cvpr workshop rushil sanghavi and yashaswi verma
+worst case adversarial perturbation and effect of feature normalization on max margin multi label classifiers pdf
+in icvgip workshop ritesh kumar gupta and yashaswi verma
+recurrent image annotation with explicit inter label dependencies code link pdf
+in eccv ayushi dutta yashaswi verma and jawahar
+robust distance with correlated metric learning for multi instance multi label data link pdf
+in acm multimedia yashaswi verma and jawahar
+probabilistic approach for image retrieval using descriptive textual queries link pdf
+in acm multimedia yashaswi verma and jawahar
+exploring locally rigid discriminative patches for learning relative attributes project code link pdf
+in bmvc yashaswi verma and jawahar
+im text and text im associating images and texts for cross modal retrieval code link pdf
+in bmvc yashaswi verma and jawahar
+relative parts distinctive parts for learning relative attributes project code link pdf
+in cvpr ramachandruni sandeep yashaswi verma and jawahar
+exploring svm for image annotation in presence of confusing labels link pdf
+in bmvc yashaswi verma and jawahar
+generating image descriptions using semantic similarities in the output space link pdf
+in cvpr workshop yashaswi verma ankush gupta prashanth mannem and jawahar
+neti neti in search of deity link pdf
+in icvgip yashaswi verma and jawahar
+image annotation using metric learning in semantic neighbourhoods code link pdf
+in eccv yashaswi verma and jawahar
+choosing linguistics over vision to describe images link pdf
+in aaai ankush gupta yashaswi verma and jawahar
+understanding semantic association between images and text pdf
+panel of examiners dr manish gupta dr raghavan manmatha dr rajeev rastogi and prof jawahar
+software innovation lab logo software innovation lab about research publications teaching awards scholars contact associate professor iit jodhpur
+sumit kalra software architecture software engineering internet of things edge fog computing smart healthcare
+sumit kalra is an associate professor in the department of computer science and engineering at the indian institute of technology jodhpur his work bridges smart healthcare cloud native software and human centered technology to deliver scalable real world solutions
+he also serves as program committee member for medtech center and contributes to program management teams driving medical technology initiatives with aiims jodhpur
+portrait of professor sumit kalra research interests focus areas
+software architecture quality attributes design patterns and tactics for robust scalable systems
+cloud computing containers virtualization and elasticity to deliver production ready solutions
+internet of things edge and fog computing to connect distributed devices with reliable computing
+smart healthcare portable diagnostics and augmented interventions for remote affordable care
+patents sep india patent automatic speech generation language independent solution for speech generation using hand gestures in collaboration with aiims jodhpur
+dec us patent smartphone with detachable components vendor independent detachable input and output components for flexible smartphones
+research papers view all on google scholar using ai algorithms and machine learning in the analysis of bio purification method therapeutic emesis known as vamana karma rani kalra singh david ar gupta jmir research protocols
+systematic review evaluating the quality of ayurveda smartphone applications android rani pv anandaraman kalra ar gupta singh david european journal of integrative medicine
+overview of computational approaches for cancer diagnosis gc gandhi chakraborty dk saini kalra yousif advances in cancer detection prediction and prognosis using artificial
+hybrid robot navigation integrating monocular depth estimation and visual odometry for efficient navigation on low resource hardware vashisht gc gandhi kalra dk saini computers and electrical engineering
+functional suitability and evaluation metrics for autonomous data center management case study of dcamp vd sera kalra ieee nd international conference on software architecture companion
+jul sneha prasad iot applications moe scholarship real time sensor based monitoring of large structures
+jul yashraj singh medical technologies jckif scholarship manipulating ct scans for augmented reality interfaces
+jul manik sejwal medical technologies moe scholarship patient compliance through interactive chatbots
+jun google cloud education grant usd in credits supporting software and data engineering
+aug moonshot award winner for innovative idea on learning while sleeping
+jun ideathon on sustainable smart systems st prize in pan iit competition co organized by avl india and acm student chapter iit jodhpur
+jul csl software and data engineering virtualization cloud computing data management and data intensive processing supported by google cloud education grant
+jul dhl social media application development mobile application development frameworks and techniques
+may csl introduction to augmented and virtual reality concepts and foundations for augmented and virtual reality
+team member profile card team member profile card team member profile card team member profile card team member profile card team member profile card team member profile card team member profile card contact academic links connect
+email sumitk at iitj dot ac dot in department of cse iit jodhpur
+academic profiles linkedin researchgate sumit kalra
+am working as an associate professor at the department of computer science and engineering indian institute of technology jodhpur my primary research interests are broadly in the domains of ubiquitous computing iot edge computing wireless sensor networks wearables and ambient sensing for smart living applications am leading the ubisys research lab in the department that has created unique facility of connected smart living testbeds in the institute am working as an area editor of the ad hoc networks journal elsevier also am associated with many conferences of international repute including ieee ants ieee lcn comsnets icdcn the web mobilehci and ieee syscon to name few
+have few phd positions available am looking for self motivated btech mtech students net gate qualified with high analytical skill strong research aptitude and excellent academic background to join our lab if you are interested to work with me and pursue phd summer internship mtp btp write to me with your updated resume
+experience serving as the associate dean research and development iit jodhpur since sept
+visiting fellow school of computer science and engineering university of new south wales sydney australia june july
+assistant professor department of cse iit jodhpur rajasthan india dec june
+assistant professor department of cse iiit guwahati assam india dec nov
+research volunteer department of biomedical informatics ohio state university usa june jan
+assistant professor department of computer science and information systems bits pilani hyderabad campus may april
+visiting faculty department of computer science and information systems bits pilani hyderabad campus april may
+educational qualification phd in computer science and engineering from indian institute of technology guwahati
+thesis title tree based data gathering from sensors topology management sustaining qos
+tech in computer science and engineering from indian institute of technology guwahati
+tech in computer science and engineering from west bengal university of technology
+profile image about me present associate professor iit jodhpur
+postdoctoral fellow ben gurion university of the negev israel
+host dr nimrod talmon postdoctoral fellow institute of mathematical sciences chennai india
+host prof saket saurabh ph dayalbagh educational institute agra
+advisor prof kamal srivastava prof gur saran looking for sincere and motivated students to join at various levels ph postdoctoral fellow interns
+research interests parameterized complexity and algorithms kernelization computational social choice theory graph algorithms professional services program committee memberijcai ipec aamas aaai eumas ecai ec senior program committee memberijcai reviewer for conferences aamas walcom stocs csr ipec isaac fsttcs wg mfcs stacs aaai ijcai icalp reviewer for journals tcs tocs algorithmica jaamas itcs session chairaamas
+anand mishra phd cse department of computer science and engineering indian institute of technology jodhpur jodhpur rj india
+currently serve as an assistant professor at the department of computer science and engineering at the indian institute of technology jodhpur prior to this role had the opportunity to work as postdoctoral researcher under the mentorship of dr partha pratim talukdar at the indian institute of science focusing on knowledge aware computer vision for nearly two years for my doctoral studies conducted research on the interpretation of text within scene images at iiit hyderabad where had the privilege of being supervised by prof jawahar and dr karteek alahari
+my current research interest lies in the intersection of vision and language specifically am deeply engaged in exploring the field of developing ai agents that can understand human language and perceive and comprehend the visual world the overarching goal of my research group at iit jodhpur known as vision language and learning group or vl in short is to advance the development of these intelligent agents towards bridging the gap between human and machine interaction to know more about the recent research focus and activities of vl please visit the group website
+email cv google scholar dblp selected publications teaching vl
+recent upcoming professional activities area chair cvpr eccv program co chair icvgip reviewer and or pc member for cvpr eccv iccv acl rolling review iclr wacv aaai ijcai icdar ieee tpami ijcv ieee tkdd cviu ijdar pattern recognition co organizer scaldoc ncvpripg wdar wdar kbmm kbmm workshop co chair icfhr
+november received the google gemma academic program award worth usd including usd in april cycle in google cloud credits november our debut work on healthcare ai collabration with aiims new delhi patientvlm meets docvlm and work on few shot video object detection are accepted at aaai main track november our works matr iccv and mpa emnlp are selected for showcase at vision india session august our work model parity alignment towards empowering small vlms is accepted in emnlp main track july our work on moment alignment transformer matr is accepted in iccv july speaking at cvit summer school at iiit hyderabad april received google gemma academic program award to support our research with cloud resources march am program co chair for icvgip december our work patentlmm is accepted at aaai december my upcoming course csl pattern recognition and machine learning is supported by google cloud teaching credits october shreya and nakul from vl received in absentia the director prize for graduating student with best academic innovation work among students of all tech programs of the class of at iitj convocation see the announcement view institute social media post september our latest work on scene text to scene text translation is now available on our project website we have also made the code and data publicly available for those interested in exploring or building upon this work september large multimodal model extension to our work text kvqa singh et al iccv is accepted at main track of emnlp july speaking at acm india rocs april work on sketch guided image inpainting by undergrad student nakul sharma is accepted at cvpr workshop december our works qdetrv query guided detr for video and cstbir composite sketch text based image retrieval are accepted at aaai october two of our works one in the domain of ai for education and one in query guided attention in vision transformers are accepted at wacv october speaking at distinguished researcher speaker series drss accenture labs virtually on our video works september speaking at niser bhubaneswar virtually on our sketch guided visual understanding works july received the microsoft academic partnership grant mapg see the announcement may recognized as one of the outstanding reviewers at cvpr the complete list is here april our work on retvqa and floco are accepted in ijcai main track and icdar respectively march our work on few shot referring relationships in videos is accepted in cvpr january am in the organizing team of ncvpripg please consider participating january speaking at acm india arcs october thanks to accenture labs for gift grant october our works cofar vistot and scene graph grounding are accpeted at aacl ijcnlp emnlp and wacv respectively march speaking at search technology centre india stci microsoft march received iit research initiation seed grant march speaking at my undergraduate alma mater on fundamentals of neural networks guru ghasidas central university bilaspur february speaking at icmi pre conference workshop iiit bangalore virtual february speaking at wadla iiit sri city virtual january received the serb startup research grant december two of the graduating members of my research group vaibhav mishra and mayank maheshwari got the director prize for the best academic innovation work among all the graduating students of batch at iit jodhpur convocation see the award receiving moment november my phd student abhirama got selected as prime minister research fellow september speaking in panel at docvqa workshop under icdar september recognized as one of the outstanding reviewers at iccv see the list july our work on few shot visual relationship co localisation with revant teotia vaibhav mishra and mayank maheshwari got accepted in iccv the paper and code are available now june got selected for microsoft academic partnership grant mapg april paper on textvqg got accepted in icdar paper is available here february presenting poster on multimodal machine learning for enhanced image understanding under the machine learning and big data analytics track at the th indo german frontier of engineering conference indogfe february speaking at wadla virtual event hosted by iiit sri city slides december our iccv paper on textkvqa is accepted for presentation at vision india august received iit jodhpur teaching excellence award see announcement july one paper got accepted at eccv as spotlight top paper this was joint work with aditay rajath and anirban june speaking as an invited speaker at deep learning for computer vision session at spcom going to be organized virtually at iisc bangalore june got research grant from the accenture labs april co organizing nd workshop on kbmm co located with akbc december gave talk on our recent works on knowledge aware computer vision to small group of developers researchers from siemens at iisc bangalore july our paper on the knowledge enabled vqa model that can read got accepted in iccv for an oral presentation july joined iit june gave talk on reading text in scene images bridging it to world knowledge and beyond at department of cse iit guwahati may our ocr vqa paper got accepted in icdar april gave talk on knowledge aware visual question answering at iiit bangalore april we with sameer singh and pouya pezeshkpour from university of california irvin and partha talukdar from iisc are organizing workshop knowledge bases and multiple modalities kbmm at automated knowledge base construction akbc please consider submitting an extended abstract related to knowledge bases and multiple modalities work march will be serving as program committee member for icdar february will be serving as reviewer for iccv february offered lecture on graph representation learning in deep learning for computer vision course at iisc bangalore january obtained research grant from siemens will be working as co pi with dr anirban and dr partha on this project january will be serving as program committee member for ijcai december am attending aaai my travel is supported by gift of usd by google to the indian institute of science thank you google november am serving as program committee member for workshop on document analysis and recognition dar to be held as part of icvgip november our work on knowledge aware visual question answering got accepted in aaai acceptance rate october my solo author paper on deep heterogeneous metric learning got accepted for publication at international journal of multimedia information retrieval ijmir this paper addresses the problem of matching cartoon and real faces september our paper on deep metric learning got accepted at accv pre print will be available soon september will be attending amazon research day on september july will be co teaching an undergraduate introductory course on algorithms and programming at iisc bangalore link august joined iisc bangalore as postdoc selected publications journals bharat scene text novel comprehensive dataset and benchmark for indian language scene text understanding anik de abhirama subramanyam penamakuri rajeev yadav aditya rathore harshiv shah devesh sharma sagar agarwal pravin kumar anand mishra preprint bharat scene text dataset under peer review
+moment alignment transformer for video to video moment retrieval yogesh kumar uday agarwal manish gupta anand mishra preprint under peer review
+bridging language to visuals towards natural language query to chart image retrieval neelu verma anik de anand mishra volume international journal of multimedia information retrieval link
+multimodal query guided object localization aditay tripathi rajath dani anand mishra anirban chakraborty volume pages multimedia tools and applications link
+dhfml deep heterogeneous feature metric learning for matching photograph and cartoon pairs anand mishra pages international journal of multimedia information retrieval link bibtex
+unsupervised refinement of color and stroke features for text binarization anand mishra karteek alahari and jawahar volume international journal on document analysis and recognition pdf bibtex
+enhancing energy minimization framework for scene text recognition with top down cues anand mishra karteek alahari and jawahar volume computer vision and image understanding pdf bibtex conference papers patientvlm meets docvlm pre consultation dialogue between vision language models for efficient diagnosis lokesh uday agarwal abhirama subramanyam penamakuri apoorva challa shreya gowda somesh gupta anand mishra aaai new paper code coming soon
+temporal object aware vision transformer for few shot video object detection yogesh kumar anand mishra aaai new paper code
+when big models train small ones label free model parity alignment for efficient visual question answering using small vlms abhirama subramanyam penamakuri navlika singh piyush arora anand mishra equal contribution emnlp new paper code
+aligning moments in time using video queries yogesh kumar uday agarwal manish gupta anand mishra equal contribution iccv new paper code
+ai generated lecture slides for improving slide element detection and retrieval suyash maniyar vishvesh trivedi ajoy mondal anand mishra jawahar equal contribution icdar new paper project page code
+patentlmm large multimodal model for generating descriptions for patent figures shreya shukla nakul sharma manish gupta anand mishra equal contribution aaai new paper project page code short talk
+visual text matters improving text kvqa with visual text entity knowledge aware large multimodal assistant abhirama subramanyam penamakuri anand mishra emnlp paper project page code short talk
+show me the world in my language establishing the first baseline for scene text to scene text translation shreyas vaidya arvind kumar sharma prajwal gatti anand mishra equal contribution icpr paper project page code poster short talk
+qdetrv query guided detr for one shot object localization in videos yogesh kumar saswat mallick anand mishra sowmya rasipuram anutosh maitra roshni ramnani aaai paper
+composite sketch text queries for retrieving objects with elusive names and complex interactions prajwal gatti kshitij parikh dhriti paul manish gupta anand mishra aaai paper project page cstbir dataset code
+query guided attention in vision transformers for localizing objects using single sketch aditay tripathi anand mishra anirban chakraborty wacv new paper project page code
+semantic labels aware transformer model for searching over large collection of lecture slides jobin anand mishra jawahar wacv oral new best paper award finalist paper project page lecsd dataset short talk
+answer mining from pool of images towards retrieval based visual question answering abhirama subramanyam penamakuri manish gupta mithun das gupta anand mishra ijcai paper project page code
+towards making flowchart images machine interpretable shreya shukla prajwal gatti yogesh kumar vikash yadav anand mishra icdar paper project page code
+few shot referring relationships in videos yogesh kumar anand mishra cvpr paper project page code
+grounding scene graphs on natural images via visio lingual message passing aditay tripathi anand mishra anirban chakraborty wacv paper project page code
+vistot vision augmented table to text generation prajwal gatti anand mishra manish gupta mithun das gupta emnlp paper project page code
+cofar commonsense and factual reasoning in image search prajwal gatti abhirama subramanyam penamakuri revant teotia anand mishra shubhashis sengupta roshni ramnani aacl ijcnlp paper project page code
+few shot visual relationship co localization revant teotia vaibhav mishra mayank maheshwari anand mishra iccv paper project page code equal contribution
+look read and ask learning to ask questions by reading text in images soumya jahagirdar shankar gangisetty anand mishra icdar oral paper
+sketch guided object localization in natural images aditay tripathi rajath dani anand mishra anirban chakraborty eccv spotlight presentation paper bibtex project page code know the paper in seconds know the paper in ten minutes
+from strings to things knowledge enabled vqa model that can read and reason ajeet kumar singh anand mishra shashank shekhar and anirban chakraborty iccv oral paper bibtex project page
+ocr vqa visual question answering by reading text in images anand mishra shashank shekhar ajeet kumar singh and anirban chakraborty icdar paper bibtex project page
+kvqa knowledge aware visual question answering sanket shah anand mishra naganand yadati and partha pratim talukdar equal contribution aaai acceptance rate paper bibtex project page
+deep embedding using bayesian risk minimization with application to sketch recognition anand mishra and ajeet kumar singh accv acceptance rate paper arxiv bibtex
+iiit cfw benchmark database of cartoon faces in the wild ashutosh mishra shyam roy anand mishra and jawahar eccvw oral pdf bibtex iiit cfw dataset
+simple and effective method for script identification in the wild ajeet kumar singh anand mishra pranav dabaral and jawahar das paper bibtex
+scene text recognition and retrieval for large lexicons udit roy anand mishra karteek alhari and jawahar accv paper bibtex
+image retrieval using textual cues anand mishra karteek alhari and jawahar iccv paper bibtex
+whole is greater than sum of parts recognizing scene text words vibhor goel anand mishra karteek alhari and jawahar icdar paper bibtex
+scene text recognition using higher order language priors anand mishra karteek alhari and jawahar bmvc oral paper bibtex iiit word dataset
+top down and bottom up cues for scene text recognition anand mishra karteek alhari and jawahar cvpr paper bibtex
+an mrf model for binarization of natural scene text anand mishra karteek alhari and jawahar icdar oral paper bibtex
+teaching at iit jodhpur csl mathematical foundations for computer science monsoon csl pattern recognition and machine learning spring csl fundamentals of machine learning monsoon csl computer vision spring csl maths for computing monsoon ay tri csl graph theory and application ay tri spring cs theory of computation spring cs object oriented design and analysis monsoon at iisc bangalore ue algorithms and programming monsoon co taught at indian institute of science with dr sathish govindrajan and dr viraj kumar at iiit hyderabad during phd computer problem solving monsoon introductory course for tech bioinformatics at iiit sri city during phd computer architecture spring co taught at iiit sricity as visiting instructor with dr suresh purini and prof govindrajulu operating systems monsoon co taught at iiit sricity as visiting instructor with dr suresh purini open positions we do not offer any short term summer winter internship positions except occasional special calls for specific project needs apologize for not being able to respond to individual emails regarding these positions
+for non iitj students below are the current open positions
+phd mtech phd position we have open positions for full time phd and mtech phd currently if you are interested in pursuing phd or mtech phd please consider applying through the institute official route link research assistant research engineers pre doc position we hire highly motivated engineering graduates those who graduated or graduating this semester btech be preferably in cs ee ai for full time in person research engineer or research assistant positions this is rolling call exceptional academic credentials sound machine learning and deep learning knowledge good programming skills and passion for doing world class research and development are essential for these positions if you are eligible and interested please consider applying here next cut off date december new
+medisa lab logo home team publications code contact medisa lab iit jodhpur research overview research overview the medical image synthesis and analysis medisa lab mentored by dr angshuman paul focuses on deep learning statistical machine learning and computer vision methods for medical image synthesis analysis and quality enhancement with the goal of facilitating affordable healthcare our research addresses key problems in clinical imaging including synthetic and missing data generation super resolution disease diagnosis and image segmentation we also study learning from distributed and heterogeneous data sources using federated learning and develop annotation efficient models our objective is to design robust and reliable learning frameworks for deployment in real world clinical settings
+recent news new mpd cxr diffusion model with multi perspective semantic conditioning for chest ray synthesis from report avadhut eknath kabadi angshuman paul accepted in international symposium on biomedical imaging year
+clinically accurate medical images synthesized artificially can facilitate data augmentation and training of medical personnel however existing models often struggle to maintain fine grained anatomical structures and faithfully represent pathological findings we propose diffusion framework to synthesize images from chest ray reports our model captures multiple perspectives from chest ray reports through time aware text guidance potentially acquiring anatomical detail and pathology this contribute to the synthesis of accurate chest ray images from the reports the quality of the synthesized images is further enhanced through noise initialization strategies and adversarial refinement that evaluate both image realism and consistency with the corresponding reports experiments on publicly available chest ray datasets show improvement in fid compared to state of the art approaches
+cac gan high fidelity synthesis of mri sequences using contrast aware cyclegan rinku sadh prabhat ranjan angshuman paul accepted in international symposium on biomedical imaging year
+artificial synthesis of mri sequences can reduce scan time cost and patient discomfort by synthesizing different mri sequences from one input sequence however existing gan based approaches struggle with structural inconsistencies and sequence specific variations especially across different field strengths to address these challenges we propose contrast aware cyclegan cac gan integrating three key innovations single cycle consistency loss sccl which enforces cycle constraints only in the target contrast direction to preserve contrast variations ii feature matching lfm which aims to align intermediate image representations to enhance structural fidelity in synthesized images and iii contrast loss lc enforcing matching of pixel intensity distributions to stabilize global contrast we evaluate our approach on publicly available datasets of different magnetic field strengths our model is computationally lightweight comparisons against state of the art approaches show up to improvement in both ssim and psnr
+dbcoreset density based coreset algorithm for computationally efficient chest ray diagnosis jayant mahawar angshuman paul accepted in international symposium on biomedical imaging year
+coreset generation is data reduction method that facilitates efficient deep learning training good coreset can achieve comparable performance using much smaller number of training samples however traditional coreset methods exhibit density bias this bias leads to poor representation of subregions that are sparsely populated by data points within class to solve this we propose novel density based coreset generation algorithm to facilitate computationally efficient chest ray diagnosis we first partition the feature space into fine grained clinically relevant miniclusters utilizing density we then introduce scoring based selection mechanism it helps in finding out the representative datapoints to eventually train classifier model furthermore we enforce minimum inclusion criterion for every minicluster this step aims to mitigate density bias so that coverage of all pathological patterns may be possible training the downstream classifier on the curated coreset demonstrates improved performance and balance on the publicly available dataset we used only about one third of the training data and achieved reduction in computational resources even with this reduction we have achieved as close as with our method compared to on the full dataset we also outperform other coreset based methods our method also reduces skewness in the class wise data distribution
+feature driven layer specialization for label heterogeneous federated learning obed jamir angshuman paul accepted in neurocomputing year
+federated learning fl has redefined how models are trained across distributed systems by enabling decentralized training without compromising data privacy this allows organizations and institutions with sensitive information to collaborate effectively while ensuring confidentiality however diversity in client data distributions poses unique challenges that require innovative solutions recent advances in fl have shown promising results by tailoring personalized models for each client data distribution but very few methods address the complexities introduced by label heterogeneity existing methods require clients to share their class labels with the server to build homogeneous label distribution for all clients however this may not be possible for clients with strict privacy regulations such as medical institutions in this study we introduce novel approach to manage label heterogeneity across clients without sharing labels our method dynamically separates client models into general and specialized layers to accommodate client agnostic and client specific features respectively in each communication round the general layers are updated with the parameters of the global model while the specialized layers are preserved this selective layer update is followed by fine tuning of specialized layers for each client model to better adapt to the client local data distribution while exploiting shared representations through the general layers experimental evaluations on publicly available chest ray and natural image datasets demonstrate that our method outperforms several state of the art fl techniques
+recent publications feature driven layer specialization for label heterogeneous federated learning obed jamir angshuman paul venue neurocomputing year
+traffic forecasting using deep sequence models with vehicle situation aware loss akash chatterjee jayant mahawar angshuman paul venue conference on computer vision and image processing ccip year
+learndiff mri image super resolution using diffusion model with learnable noise sagnik goswami akriti gupta angshuman paul venue computerized medical imaging and graphics year
+knowledge distillation for an ensemble of students from pyramid of teachers with diverse perspective shilajit banerjee angshuman paul venue ieee transactions on neural networks and learning systems year
+fedimp federated learning using important layers of client models for the diagnosis of breast cancer histopathology images banerjee angshuman paul venue ieee journal of biomedical and health informatics year
+class incremental learning using push pull autoencoder for chest ray diagnosis jayant mahawar angshuman paul venue computers in biology and medicine year
+distribution guided generative replay with semantic prompts for class incremental chest ray diagnosis jayant mahawar angshuman paul devi prasad maharathy venue british machine vision conference bmvc year
+test time adaptation through semantically guided feature decomposition for few shot chest ray diagnosis jayant mahawar angshuman paul venue ieee cvf winter conference on applications of computer vision year
+few shot diagnosis of chest ray images using auxiliary information guided semideterministic infinite mixture prototypes prabhala sandhya gayatri devi prasad maharathy angshuman paul venue computers in biology and medicine year
+mfa net net with multi level feature aggregation for scale free medical image segmentation swapnil thatte paromita banerjee mayank vatsa richa singh bhanu duggal angshuman paul venue year
+nh surpura bypass rd karwar jheepasani rajasthan
+first name last name email address phone no message send
+hardik jain professional headshot dr ing hardik jain hardik dot jain at iitj dot ac dot in
+dst inspire faculty fellow assistant professor cse department iit jodhpur rajasthan phd in computer vision from technische universit berlin germany
+home my journey achievements teaching clarity lab iitj download cv achievements daad phd research grant technical university berlin germany august march this prestigious grant offered by the german academic exchange service daad supported full time phd research allowing advanced study in computer vision and machine learning at leading german institution fostering international academic collaboration
+best student award iit roorkee india sept recognized for outstanding academic performance in the tech engg arch programs this award highlights excellence in coursework and research reflecting dedication to engineering innovation
+dr jai krishna medal iit roorkee india sept awarded for achieving the highest cgpa across all tech courses this medal honors academic rigor and is named after dr jai krishna pioneer in earthquake engineering symbolizing excellence in technical education
+academic prize iit roorkee india sept granted for the highest cgpa in the tech electrical engineering final year this prize underscores exceptional mastery of electrical engineering concepts and their practical applications
+daad iit master sandwich scholarship technical university berlin germany sept march this daad funded scholarship enabled final year master student to conduct full time dissertation research in germany enhancing skills in reconstruction and fostering global research networks
+designed and developed by divy jain menu
+mohit kumar jangid about awards publication service misc photo
+assistant professor computer science and engineering indian institute of technology jodhpur email mjangid at iitj dot ac dot in
+about me am assistant professor at the indian institute of technology jodhpur in the department of computer science and engineering graduated with ph with cybersecurity in the department of computer science and engineering at the ohio state university osu in summer my advisors are dr zhiqiang lin and dr yinqian zhang graduated from malaviya national institute of technology jaipur mnit with the bachelor in technology of computer engineering in my bachelor theis project was supervised by dr manoj singh gaur
+am interested in research areas of automated formal verification system security and privacy trusted execution environment cryptography and protocol design
+awards honors graduate student research award department of computer science and engineering the ohio state university info awarded sesquicentennial student scholar leadership program and the scholarship info video spot award for hard work and excellent automation of the project at maq software india info pioneering implementation of linux device driver during the internship at the defense research and development organization india info st position in cluster level computer science and intel exhibition india my research contribution with dr srinivasan parthasarathy and with the department of sociology at the ohio state university on illegal online markets darknet has been acknowledged in research paper and paper
+publications deanonymizing device identities via side channel attacks in exclusive use iots mitigation pdf github christopher ellis yue zhang mohit kumar jangid shixuan zhao zhiqiang lin network and distributed system security ndss symposium san diego ca february extrapolating formal analysis to uncover attacks in bluetooth passkey entry pairing pdf github talk mohit kumar jangid yue zhang zhiqiang lin network and distributed system security ndss symposium san diego ca march towards tee based protocol for connected and autonomous vehicles pdf github talk mohit kumar jangid zhiqiang lin in proceedings of the automotive and autonomous vehicle security autosec workshop san diego ca april towards formal verification of state continuity for enclave programs pdf github talk mohit kumar jangid guoxing chen yinqian zhang zhiqiang lin usenix security in proceedings of the th usenix security symposium august
+grant contribution advancing security and privacy of bluetooth iot via formal life cycle analysis and modelling info national security agency nsa science of security usa co wrote the grant proposal with pi zhiqiang lin the ohio state university
+other research experiences research intern cispa helmholtz center for information security germany info summer research intern defense research and development organization india info summer
+teaching experience cse systems introduction to low level programming and computer organization info the ohio state university columbus ohio usa role instructor logistics undergraduate students credit hours grader
+student organization leadership global ambassador office of international affairs at the ohio state university info student leadership advocate office of student life the at ohio state university info treasurer sky sudarshan kriya yoga by art of living at the ohio state university info university liaison international friendship organization at the ohio state university info
+other professional services group leader international buck serv service trip to guatemala office of student life the at ohio state university info mar emcee holi festival at the ohio state university organized by international friendship usa info mar emcee vision conference organized by bridges internationals usa info dec coordinator aloha technical festival creative art society malaviya national institute of technology jaipur india info mar
+academic services session chair automotive and autonomous vehicle security autosec workshop san diego ca info
+industry experience quality assurance intern ansys inc canonsburg pennsylvania usa info summer software engineer maq software india info developer intern placement automation system software development at malaviya national institute of technology jaipur india info summer
+presentation and talks formalizing unxplored privacy terrain allowlist tracking international computer science institute berkeley california usajuly extrapolating formal analysis to uncover attacks in bluetooth passkey entry pairing cispa helmholtz center for information security germanyjuly network and distributed system security ndss symposium san diego california usamar towards tee based protocol for connected and autonomous vehicles automotive and autonomous vehicle security autosec workshop san diego california usaapr towards formal verification of state continuity for enclave programs th usenix security symposiumaug
+personal source code release visualize graph algorithm info android automation tools info
+misc like to explore and experience different arts of life spirituality mindfulness science culture sports music painting dance etc last updated
+nitin awathare home research teaching education picture nitin awathare department of computer science and engineering iit jodhpur
+about me am currently working as an assistant professor in the department of computer science and engineering at iit jodhpur india have joined this position followed by my postdoc in the department of computer science at the national university of singapore singapore where worked in the security lab kisp lab under the supervision of prof prateek saxena prior to that completed my ph in the department of computer science at iit bombay where had the privilege of working with prof umesh bellur and prof vinay rebeiro in the systems and networks research group synerg lab
+about my research my research primarily focuses on distributed systems during my ph dedicated my efforts to enhancing the computation capacity and throughput of blockchain systems while maintaining robust security measures currently am actively involved in the development of distributed atomic cross chain commit mechanism and designing novel payment channel network to facilitate seamless cross chain exchanges moreover have developed keen interest in exploring an innovative research avenue that revolves around enabling software to exclusively access low level memory through capability handles rather than conventional raw pointers
+dr palash das assistant professor department of computer science iit jodhpur rajasthan india am looking for motivated students to join at various levels like masters ph dr palash das has received his tech degree in cse from the west bengal university of technology and an degree in cse from the indian institute of engineering science and technology shibpur he completed his ph from iit guwahati in april presently he is working as an assistant professor in the department of cse iit jodhpur his research interests include near memory processing hardware designing ai ml accelerators and emerging memory technologies under the broad domain of computer architecture he is the recipient of the national scholarships merit certificate for secondary examination and received the prestigious intel fellowship he has also recieved teaching excellence award from iit jodhpur he has published multiple research papers in popular journals and conferences like ieee transaction on computers tc acm transactions on architecture and code optimization taco ieee transactions on computer aided design of integrated circuits and systems tcad acm journal on emerging technologies in computing systems jetc ieee design and test design automation and test in europe date acm great lakes symposium on vlsi glsvlsi and ieee international conference on very large scale integration vlsi soc he has received travel grants from acm india iarcs dac and vlsid
+journals josna philomina rekha james shirshendu das palash das and daleesha vishwanathan nestar hardware trojans and its mitigation strategy in noc routers integration the vlsi journal accepted josna philomina rekha james palash das shirshendu das and daleesha vishwanathan exploiting virtual channel allocation policies in stt ram buffers of noc routers through hardware trojan elsevier journal of system architecture jsa accepted anadi goyal gaurav sangwan aradhya patel and palash das havit an efficient hardware accelerator for vision transformer with informative patch selection techniques acm transactions on architecture and code optimization acm taco accepted satyaswaroop nayak anadi goyal sheel sindhu manohar dip sankar banerjee and palash das enhanced prefetching via dynamic multi step sarsa based reinforcement learning ieee embedded systems letters esl accepted atul kumar dipika deb shirshendu das and palash das edattack hardware trojan attack on on chip packet compression ieee design and test journal accepted through nocs palash das shashank sharma and hemangee kapoor alamni adaptive lookaside memory based near memory inference engine for eliminating multiplications in real time ieee transactions on computers tc palash das and hemangee kapoor nzespa near memory zero skipping parallel accelerator for cnns ieee transactions on computer aided design of integrated circuits and systems tcad palash das and hemangee kapoor clu near memory accelerator exploiting the parallelism in convolutional neural networks acm journal on emerging technologies in computing systems jetc acm bikromadittya mondal palash das pradyut sarkar and susanta chakraborty comprehensive fault diagnosis technique for reversible logic circuit computers and electrical engineering elsevier doi compeleceng palash das and bikromadittya mondal extended map for minimizing multiple output logic circuits international journal of vlsi design communication systems vlsics vol no august conferences sharma yadav karnik and das exploring bit flip attacks on dqns with hash driven defense accelerator th international conference on vlsi design vlsid accepted majumdar yadav raj and das shield hardware acceleration for defending cnns against adversarial attacks th ieee international symposium on smart electronic systems ieee ises accepted yadav goyal and das hybrid token selector based accelerator for vits design automation and test in europe date ieee das and kapoor ndie near dram inference engine exploiting dimm parallelism asia pacific conference on circuits and systems apccas ieee kumar deb das and das edattack hardware trojan attack on on chip packet compression international symposium on networks on chip nocs in association with ieee design and test journal das joshi and kapoor hydra near hybrid memory accelerator for cnn inference design automation and test in europe conference the european event for electronic system design test acm date longchar das and kapoor zalobi zero avoiding load balanced inference accelerator th ifip ieee international conference on very large scale integration vlsi soc ieee joshi das kulkarni and kapoor dimming hybrid caches to assist in temperature control of chip multiprocessors the th acm great lakes symposium on vlsi glsvlsi acm das and kapoor towards near data processing of compare operations in stacked memory the th acm great lakes symposium on vlsi glsvlsi acm das lakhotia shetty and kapoor towards near data processing of convolutional neural networks st international conference on vlsi design vlsid ieee das and mondal signature analysis for synthesis of reversible circuits th ieee international symposium on vlsi design vdat ieee others palash das and hemangee kapoor clu near memory accelerator exploiting the parallelism in convolutional neural networks th academic research and careers for students symposium arcs ph forum palash das and hemangee kapoor accelerating cnn inference near to the memory by exploiting parallelism sparsity and redundancy design automation and test in europe conference the european event for electronic system design test acm date ph forum palash das and hemangee kapoor near memory architectures for cnns while exploiting parallelism sparsity and redundancy design automation conference dac accepted students ph akshansh yadav ongoing saksham maheshwari ongoing anand saxena ongoing deepraj majumdar ongoing tech deepraj majumdar completed satyaswaroop nayak co supervisor dr dip sankar banerjee completed sunirban sarkar co supervisor supervisor dr angshuman paul completed aman saini ongoing dhiraj raj ongoing saurav kumar ongoing tech prjoects anadi goyal completed gaurav sangwan completed pratul singh completed anshu raj completed aditya dhaduk completed rohan lambture ongoing aniket singh ongoing projects enhancing hardware security and throughput in vision tasks funding agency anrf goi ongoing sustainable and robust near memory accelerator for vision transformer based models funding agency serb goi ongoing domain adaptation for detection funding agency vehant technologies ongoing improving hardware security and efficiency in cnn accelerators funding agency iit jodhpur ongoing alamni adaptive lookaside memory based near data inference engine for eliminating multiplications in real time funding agency intel completed recent news akshansh and deepraj got fellowship from ieee ises congratulations aman and saurav got fellowship from vlsid congratulations our paper got accepted at integration the vlsi journal congratulations and thanks to the collaborators our paper got accepted at jsa congratulations and thanks to the collaborators our paper got accepted at vlsid congratulations to om anmol and vihan our paper got accepted at ieee ises congratulations to deepraj akshansh and dhiraj our paper got accepted at acm taco congratulations to anadi gaurav and aradhya our paper got accepted at esl congratulations to satya and anadi our paper got accepted at date congratulations to akshansh and anadi anadi got travel grant from ceda for date anadi akshansh and deepraj got fellowship from vlsid the project titled enhancing hardware security and throughput in vision tasks has been accepted for funding by anrf experience assistant professor department of cse iit jodhpur am an instructor of undergraduate ug and postgraduate pg courses am also involved in research under the broad domain of computer architecture
+august till date research scholar and teaching assistant department of cse iit guwahati india parallel computer architecture cs ug pg introduction to vlsi design verification and test cs ug pg computer organisation and architecture cs ug digital design cs ug introduction to computing cs ug hardware laboratory cs ug digital design cs ug july april assistant professor department of cse dumkal institute of engg tech india during this period was the instructor of several undergraduate ug courses like introduction to programming object oriented technology java and operating systems have guided several ug final year projects as well have been awarded the certificate of appreciation for quality teaching and academic performance by the institute feel glad to see my students contribute generously to their respective fields in various reputed industries and academia
+august june education indian institute of technology guwahati doctor of philosophy ph computer science engineering july april indian institute of engineering science and technology shibpur formerly known as master of engineering computer science engineering may april west bengal university of technology bachalor of technology tech computer science engineering september august skills programming languages python java jsp jdbc swing verilog hdl language cuda programming language tools and simulators high level synthesis with vivado deep learning framework pytorch xilinx ise gem full system simulator cadence toolset mcpat cacti multi sim teaching operating system lab csl python programming for data engineering ail principles of computer systems ii csl introduction to computer science csl operating system csl computer architecture csl principles of computer systems csl honors achievements fellowships teaching excellence award iit jodhpur intel fellow mhrd fellow net qualified for the post of assistant professor cbse ugc net june gate qualified certificate of appreciation for quality teaching and academic performance in dumkal institute of engineering and technology under national scholarships merit certificate holder from govt of west bengal st place in the merit list of ph entrance of iit guwahati resource person in the workshop under the strengthening component of dbt star college scheme ministry of science and technology govt of india received acm india iarcs travel grant for date conference accepted travel grant for dac conference received fellowship and student travel grant support for presenting full paper in st international conference on vlsi design vlsid professional services and memberships
+member of ieee india council industry academia young professionals committee iaypc for the year program committee member of data science scalable algorithms and analytics track of international conference on high performance computing data and analytics hipc session chair at ieee ises conference session chair at nd workshop on present and future computing systems iisc bangalore reviewer of ieee journal on emerging and selected topics in circuits and systems jetcas march reviewer of ieee transactions on parallel and distributed systems tpds december resource person in the workshop under the strengthening component of dbt star college scheme ministry of science and technology goi talk on near memory processing in teqip iii sponsored short term course on advanced computer architecture department of cse iit guwahati member ieee member acm panel discussion iitj chairing session iisc teaching excellence award iitj talk vlsid talk glsvlsi receiving the doctorate degree iitg chaired session ises team susma iit guwahati performance with my supervisor girl in jacketoffice room no department of cse iit jodhpur nagaur road karwar pin office number email palashdas at iitj dot ac dot in
+girl in jacketresidence address papia villa birnagar mahamayasthan raiganj uttar dinajpur west bengal india pin
+in few words to my perpetual bewilderment am an assistant professor in the department of computer science and engineering at the indian institute of technology iit jodhpur
+am also affiliated with the centre for brain science and applications and the centre for education technology at iit jodhpur
+it has been while that have been trying to understand and model how we do what we do and why we do what we do towards the design of an embodied social empathetic thinking machine am now all the more curious about the origin evolution and development of fundamental cognitive abilities language acquisition aesthetic sense time space continuum spontaneous thought contemplation across all living species of late have begun wondering about the evolutionary origins of all forms of art artistic behavior learning creativity imagination and sense of aesthetics and how an amalgamation of all of these processes lead to embodied experiences would love to be part of transdisciplinary science writing research initiatives projects in any all of these areas
+one can find brief on my research interests and attempts here and on few other issues that interest me here
+when at work should be somewhere around
+if you would like to write to me please address them to rm dot banerjee at gmail dot com or romibanerjee at iitj dot ac dot in
+some of the many questions that am curious about why how do we do what we do is there universal code of operations across species something that helps us relate to each other emote to instrumental music how does the brain integrate multimodal multisensory perceptions into experiences that can be imagined and relived can we model thinking is there an algebra underlying creation navigation through and manipulation of thoughts how do we understand when do we understand that we have understood why are we curious what is the self do pre lingual babies think if yes how do they represent their thoughts do babies understand that they have understood how do we imagine what is creativity what is consciousness what defines attention and free will how is the time space continuum represented in the brain concepts of objective and subjective time
+subject areas that my work broadly draws from in alphabetical order affective computing algorithms artificial general intelligence cognitive anthropology computational thinking computing with words cww developmental psychology natural language processing nlp natural language understanding nlu neuroscience of contemplation and comprehension philosophy of mind and quantum models of cognition
+besides these forage for answers in the heuristics arising out of thinking on thinking and needs of everyday life am an assistant professor of computer science and engineering at the indian institute of technology jodhpur graduated with ph in cse from the indian institute of technology bombay in advised by prof ashwin gumaste my ph research was focused on various modeling experimentation and analytical aspects of network management in next generation software defined networks
+am currently focused on developing network infrastructure for the efficient training and inference of deep neural networks dnns including the complex requirements of large language models llms am also working on designing self optimized and highly available next generation networks
+am looking for motivated students to join my research group please send me your cv if you are interested in doing phd in my research interests
+research interests network systems for ai at scale self optimizing and resilient networks network softwarization network management performance modelling
+susil kumar mohanty susil kumar mohanty assistant professor school ph indian institute of technology patna email susilmohanty at iitj dot ac dot in biotech blockchain and off chain technologies payment channel networks cybersecurity and privacy applied cryptography zero knowledge proofs decentralized secure ai ml call language web profile about
+am currently working as an assistant professor in the department of computer science and engineering at the indian institute of technology jodhpur prior to this served as post doctoral researcher at the faculty of mathematics informatics and mechanics mim university of warsaw poland where worked in the cryptography and blockchain group led by prof stefan dziembowski earned my ph from the department of computer science and engineering indian institute of technology patna under the supervision of prof somanath tripathy in the slip security lab iit patna
+my research interests include blockchain and off chain technologies payment channel networks cybersecurity and privacy applied cryptography zero knowledge proofs zkps and decentralized secure ai ml
+susil kumar mohanty assistant professor department of computer science engineering indian institute of technology iit jodhpur nh nagaur road karwar jodhpur rajasthan india linklinkedingithublinklink am currently working as an assistant professor in the department of computer science and engineering at indian institute of technology iit jodhpur before joining iit jodhpur was post doctoral researcher at the faculty of mathematics informatics and mechanics mim university of warsaw uw poland where worked in the cryptography and blockchain group hosted by prof stefan dziembowski completed my ph in the department of computer science and engineering at the indian institute of technology iit patna where had the privilege of working under the supervision of prof somanath tripathy in the slip security lab iit patna my research primarily focuses on blockchain technologies with particular emphasis on advancing scalability security and privacy the core challenges that shape the evolution of decentralized systems extensively work on layer and off chain protocols especially privacy security and scalability of payment channel networks pcns which play crucial role in enabling high throughput and low latency transactions in addition am deeply engaged in studying and developing cross chain communication mechanisms data availability solutions and other foundational components that strengthen the reliability and interoperability of distributed ledgers significant part of my work also explores emerging and interdisciplinary blockchain applications including social internet of vehicles siov local energy markets lem and other novel domains where decentralized trust security and verifiable computation are essential going forward aim to broaden my work across the wider landscape of privacy security and applied cryptography with special interest in zero knowledge proof zkp systems and their applications in scalable privacy preserving blockchain infrastructures and decentralized and secure al ml if you are interested in working with me on any of these topics please send me an email email
+dblp https dblp org pers hd inamdar tanmay website https sites google com view taninamdar
+current assistant professor department of computer science and engineering iit jodhpur researcher department of informatics university of bergen bergen norway
+phd in computer science the university of iowa iowa city united states
+thesis covering and clustering with outliers and other constraints advisor prof kasturi varadarajan cgpa
+tech in computer engineering veermata jijabai technological institute mumbai india
+cgpa research interests am broadly interested in algorithms and complexity especially in approximation algorithms clustering parameterized complexity and computational geometry publications authors are listed in the alphabetical order of the last names journal publications fedor fomin petr golovach tanmay inamdar and tomohiro koana fpt approximation and subexponential algorithms for covering few or many edges in inf process lett fedor fomin petr golovach tanmay inamdar saket saurabh and meirav zehavi re packing equal disks into rectangle in discrete computational geometry pp akanksha agrawal tanmay inamdar saket saurabh and jie xue clustering what matters optimal approximation for clustering with outliers in artif intell res pp sayan bandyapadhyay tanmay inamdar shreyas pai and sriram pemmaraju near optimal clustering in the machine model in theor comput sci pp
+chandra chekuri and tanmay inamdar algorithms for intersection graphs for intervals and pseudodisks in theory comput pp
+chandra chekuri tanmay inamdar kent quanrud kasturi varadarajan and zhao zhang algorithms for covering multiple submodular constraints and applications in comb optim pp santanu bhowmick tanmay inamdar and kasturi varadarajan fault tolerant covering problems in metric spaces in algorithmica pp sayan bandyapadhyay santanu bhowmick tanmay inamdar and kasturi varadarajan capacitated covering problems in geometric spaces in discret comput geom pp
+conference publications shiri alouf heffetz tanmay inamdar pallavi jain nimrod talmon and yash more hiren controlling delegations in liquid democracy in proceedings of the rd international conference on autonomous agents and multiagent systems aamas auckland new zealand may ed by mehdi dastani jaime sim ao sichman natasha alechina and virginia dignum acm pp tanmay inamdar pallavi jain daniel lokshtanov abhishek sahu saket saurabh and anannya upasana satisfiability to coverage in presence of fairness matroid and global constraints in icalp to appear tanmay inamdar madhumita kundu pekka parviainen ramanujan and saket saurabh exponential time approximation schemes via compression in th innovations in theoretical computer science conference itcs january to february berkeley ca usa ed by venkatesan guruswami vol lipics schloss dagstuhl leibniz zentrum ur informatik feb tanmay inamdar lawqueen kanesh madhumita kundu ramanujan and saket saurabh fpt approximations for packing and covering problems parameterized by elimination distance and even less in fsttcs december iiit hyderabad telangana india ed by patricia bouyer and srikanth srinivasan vol lipics schloss dagstuhl leibniz zentrum ur informatik dec fedor fomin petr golovach tanmay inamdar saket saurabh and meirav zehavi kernelization for spreading points in esa september amsterdam the netherlands ed by inge li rtz martin farach colton simon puglisi and grzegorz herman vol lipics schloss dagstuhl leibniz zentrum ur informatik sept tanmay inamdar daniel lokshtanov saket saurabh and vaishali surianarayanan parameterized complexity of fair bisection fpt approximation meets unbreakability in esa september amsterdam the netherlands ed by inge li rtz martin farach colton simon puglisi and grzegorz herman vol lipics schloss dagstuhl leibniz zentrum ur informatik sept fedor fomin petr golovach tanmay inamdar and tomohiro koana fpt approximation and subexponential algorithms for covering few or many edges in mfcs august to september bordeaux france ed by er ome leroux sylvain lombardy and david peleg vol lipics schloss dagstuhl leibniz zentrum ur informatik aug
+tanmay inamdar lawqueen kanesh madhumita kundu nidhi purohit and saket saurabh fixed parameter algorithms for fair hitting set problems in mfcs august to september
+bordeaux france ed by er ome leroux sylvain lombardy and david peleg vol lipics schloss dagstuhl leibniz zentrum ur informatik aug sayan bandyapadhyay fedor fomin tanmay inamdar fahad panolan and kirill simonov socially fair matching exact and approximation algorithms in wads montreal qc canada july august proceedings ed by pat morin and subhash suri vol lecture notes in computer science springer june pp sayan bandyapadhyay fedor fomin tanmay inamdar and kirill simonov proportionally fair matching with multiple groups in wg fribourg switzerland june revised selected papers ed by dani el paulusma and bernard ries vol lecture notes in computer science springer june pp sayan bandyapadhyay fedor fomin and tanmay inamdar coresets for clustering in geometric intersection graphs in th international symposium on computational geometry socg june dallas texas usa ed by erin chambers and joachim gudmundsson vol lipics schloss dagstuhl leibniz zentrum ur informatik mar
+akanksha agrawal tanmay inamdar saket saurabh and jie xue clustering what matters optimal ap proximation for clustering with outliers in aaai selected as one of the twelve distinguished
+papers feb fedor fomin petr golovach tanmay inamdar nidhi purohit and saket saurabh exact exponential algorithms for clustering problems in ipec september potsdam germany ed by holger dell and jesper nederlof vol lipics schloss dagstuhl leibniz zentrum ur informatik
+fedor fomin petr golovach tanmay inamdar and meirav zehavi re packing equal disks into rectangle in icalp july paris france vol lipics schloss dagstuhl leibniz zentrum ur informatik tanmay inamdar and kasturi varadarajan non uniform center and greedy clustering in swat june orshavn faroe islands ed by artur czumaj and qin xin vol lipics schloss dagstuhl leibniz zentrum ur informatik fedor fomin petr golovach tanmay inamdar and saket saurabh eth tight algorithms for geometric intersection graphs now in polynomial space in fsttcs december virtual conference ed by mikolaj bojanczyk and chandra chekuri vol lipics schloss dagstuhl leibniz zentrum ur informatik
+tanmay inamdar and kasturi varadarajan capacitated sum of radii clustering an fpt approxi mation in esa september pisa italy virtual conference ed by fabrizio grandoni
+grzegorz herman and peter sanders vol lipics schloss dagstuhl leibniz zentrum ur informatik
+sayan bandyapadhyay tanmay inamdar shreyas pai and kasturi varadarajan constant approxi mation for colorful center in esa munich garching germany ed by michael bender
+ola svensson and grzegorz herman vol lipics schloss dagstuhl leibniz zentrum ur informatik tanmay inamdar local search for geometric partial covering problems in cccg august university of alberta edmonton alberta canada ed by zachary friggstad and jean lou de carufel pp tanmay inamdar and kasturi varadarajan fault tolerant clustering with outliers in waoa munich germany september revised selected papers ed by evripidis bampis and nicole megow vol lecture notes in computer science springer pp sayan bandyapadhyay santanu bhowmick tanmay inamdar and kasturi varadarajan capacitated covering problems in geometric spaces in socg june budapest hungary ed by bettina speckmann and csaba oth vol lipics schloss dagstuhl leibniz zentrum ur informatik sayan bandyapadhyay tanmay inamdar shreyas pai and sriram pemmaraju near optimal clustering in the machine model in icdcn varanasi india january ed by paolo bellavista and vijay garg acm tanmay inamdar shreyas pai and sriram pemmaraju large scale distributed algorithms for facility location with outliers in opodis december hong kong china ed by jiannong cao faith ellen lu rodrigues and bernardo ferreira vol lipics schloss dagstuhl leibniz zentrum ur informatik tanmay inamdar and kasturi varadarajan on partial covering for geometric set systems in socg june budapest hungary ed by bettina speckmann and csaba oth vol lipics schloss dagstuhl leibniz zentrum ur informatik conference talks kernelization for spreading points esa amsterdam the netherlands socially fair matching exact and approximation algorithms wads online talk clustering what matters optimal fpt approximation for clustering with outliers aaai online talk re packing equal disks into rectangle icalp paris france non uniform center and greedy clustering swat torshavn faroe islands eth tight algorithms for geometric intersection graph problems now in polynomial space fsttcs online talk capacitated sum of radii clustering an fpt approximation esa online talk
+constant approximation for colorful center esa munich garching germany fault tolerant clustering with outliers waoa munich garching germany local search for geometric partial covering problems cccg edmonton canada on partial covering for geometric set systems socg budapest hungary invited talks
+august clustering what matters optimal fpt approximation for clustering with outliers premier paper kaleidoscope acm sigkdd data science in india workshop online invited talk march clustering what matters optimal fpt approximation for clustering with outliers theory
+seminar iit bombay feb tour of clustering and geometric problems iit hyderabad honors and academic achievements aaai distinguished paper award clustering what matters optimal fpt approximations for clustering with outliers was selected as one of twelve papers selected as distinguished papers at aaai cccg best student paper award local search for geometric partial covering problems was awarded the best student paper and presentation graduate college post comprehensive research fellowship spring the fellowship is intended to recognize students with distinguished academic achievement during their early graduate training awarded by the graduate college the university of iowa first rank in undergraduate studies in the class of students during tech in computer science at veermata jijabai technological institute mumbai gre score out of research visits
+april attended dagstuhl seminar on new frontiers of parameterized complexity in graph drawing may july visited prof chandra chekuri at university of illinois urbana champaign where worked on designing approximation algorithms for geometric covering problems professional service and activities conference reviews soda socg icalp esa stacs fsttcs mfcs wads swat isaac disc journal reviews discrete and computational geometry dcg algorithmica theoretical computer science tcs journal of combinatorial optimization joco discrete mathematics theoretical computer science dmtcs informs journal of computing
+may one of the co organizers of advances in parameterized graph algorithms apga workshop in
+calpe spain references prof saket saurabh institute of mathematical sciences chennai india email
+prof kasturi varadarajan the university of iowa iowa city united states email
+prof fedor fomin university of bergen bergen norway email
+bout am an assistant professor in department of computer science and engineering at iit jodhpur my interests lie broadly in theoretical computer science specifically in computaional complexity theory and graph algorithms
+am loooking for motivated graduate and undergraduate students if your interest matches with mine kindly contact me through mail
+you can reach me at department of computer science and engineering iitj vimalraj at iitj ac in
+publications the even path problem in directed single crossing minor free graphs mfcs with archit chauhan samir datta and chetan gupta dynamic meta theorems for distance and matching icalp with samir datta chetan gupta rahul jain anish mukherjee and raghunath tewari reachability and matching in single crossing minor free graphs fsttcs with samir datta chetan gupta rahul jain anish mukherjee and raghunath tewari efficient isolation of perfect matching in log genus bipartite graphs mfcs with chetan gupta and raghunath tewari randomized and symmetric catalytic computation csr with samir datta chetan gupta rahul jain and raghunath tewari unambiguous catalytic computation fsttcs with rahul jain chetan gupta and raghunath tewari reachability in log genus graphs is in unambiguous logspace stacs with chetan gupta and raghunath tewari education job assistant professor department of cse iit jodhpur sept present post doctorate cs chennai mathematical institute sept aug phd cse iit kanpur jan jan analyst inautix chennai jul dec msc cs chennai mathematical institute aug jun teaching complexity theory semester ii advanced data structures and algorithms semester maths for computing semester complexity theory semester ii maths for computing semester complexity theory semester ii untitled design html up
+congratulations to dr sandip murarka for receiving the crsi bronze medal dr sandip murarka for receiving the crsi bronze medal
+dr sandip murarka has been conferred the prestigious crsi bronze medal by the chemical research society of india crsi at the recently concluded crsi national symposium in chemistry held at dibrugarh university this distinguished recognition acknowledges his significant contributions to the fields of organic synthesis and catalysis
+iit jodhpur congratulates dr murarka on this well deserved honor and wishes him continued success in his future endeavors
+congratulations to dr sandip murarka on his appointment as an associate editor of rsc advances prestigious journal published by the royal society of chemistry rsc dr sandip murarka on his appointment as an associate editor of rsc advances
+congratulations to dr sandip murarka for receiving the prestigious humboldt research fellowship for experienced researchers ph student mr prabhanshu yadav won the best paper award in ieee international conference on advanced networks and telecommunications systems ants ph student mr prabhanshu yadav
+ph student mr prabhanshu yadav supervised by dr suraj srivastava department of ee won the best paper award in ieee international conference on advanced networks and telecommunications systems ants research seminar by dr puneet sharma on dec at pm na
+title of the talk dynamics of triangular systems journey through non autonomous route
+date time venue dec at pm at pm on seminar room dept of mathematics
+abstract in this talk we discuss the dynamics of general non autonomous dynamical systems we relate the dynamics of the system with the dynamics of generating maps we discuss properties such as various notions of transitivity and sensitivities equicontinuity minimality proximality and li yorke cells for such systems consequently we investigate dynamics of triangular systems and relate it with the dynamics of the generating non autonomous systems
+prof ram prakash from the department of physics iit jodhpur has been elected as the president of the plasma science society of india prof ram prakash from the department of physics
+during the th pssi national plasma symposium on plasma science and technology plasma held at iit tirupati between december
+department of physics iit jodhpur is delighted to share that professor ram prakash has been elected as the president of plasma science society of india pssi for the term of established in the plasma science society of india is premier national society dedicated to the promotion of plasma science and technology the society plays vital role in advancing research education and applications of plasma science across the country pssi actively fosters collaboration among researchers academic institutions national laboratories and industry through publications conferences educational initiatives and coordinated research programs it also works to popularize plasma science by supporting academic curricula public outreach and the development of plasma scholars
+pssi has strong and diverse membership base comprising scientists and scholars from leading indian organizations including department of atomic energy dae institutes such as ipr gandhinagar barc mumbai rrcat indore sinp kolkata etc drdo laboratories such as mtrdc bengaluru etc department of space centers including prl ahmedabad sac ahmedabad etc csir laboratories such as csir immt bhubaneswar csir ceeri pilani npl new delhi etc and dst institutions like iasst guwahati etc faculty members and students from iisc bengaluru almost all iits selected nits universities and colleges across india along with industries engaged in plasma technologies are active members of the society
+plasma science is field where curiosity meets creativity and collaboration illuminates the path of discovery professor ram prakash presidentship is expected to further strengthen pssi mission and enhance its impact on the national and international plasma science community
+we are delighted to share that dr akshay gupta assistant professor in the department of civil and infrastructure engineering has been honored with the excellence in doctoral research award by the indian institute of technology iit roorkee
+the award was presented by dr jitendra singh hon ble minister of state independent charge for science and technology in recognition of dr gupta outstanding ph research contributions
+this prestigious recognition not only highlights the quality and impact of his doctoral work but also reflects the growing research excellence and academic strength of our institution
+iit jodhpur is proud to announce that dr sudhir kumar hota ph student under the supervision of dr sandip murarka department of chemistry iit jodhpur has been awarded the highly prestigious nost anthem biosciences best thesis award dr hota is among only twelve recipients nationwide to be selected for this distinguished recognition by the nost council this award recognizes his outstanding contributions to doctoral research and reflects the high standards of academic excellence at iit jodhpur
+dr rajlaxmi chouhan associate professor department of electrical engineering and head cet has been awarded the iete prof sreenivasan memorial award this award instituted by the institution of electronics and telecommunication engineers iete is given for outstanding performance in teaching electronics and telecommunication engineering during the last five years this award recognizes dr chouhan work on student centered pedagogy through video based flipped classrooms bilingual and gamified learning immersive media exploration and assessment strategies towards maintaining academic integrity in large diverse classrooms
+dr shrutidhara sarma assistant professor department of mechanical engineering indian institute of technology jodhpur and pi of fern lab has been has been elected as member of the national academy of sciences india nasi in the field of engineering sciences and technology the academy bestows this prestigious membership upon scientists who have made outstanding contributions across various domains of science and technology this recognition stands as testament to dr sarma impactful research innovation and dedicated service to the scientific community established in nasi is the country first science academy founded under the vision of eminent physicist prof meghnad saha the academy continues to promote scientific excellence through research dialogue and public engagement dr sarma will be formally inducted during the th annual session of nasi to be held in december at iit guwahati
+dr shrutidhara sarma assistant professor department of mechanical engineering indian institute of technology jodhpur and pi of fern lab has been honoured with the women in sensors wiley best paper award at the ieee fleps conference held in national university of singapore nus singapore the award recognizes her outstanding contribution to the field of flexible sensors through the paper titled assistive living and wireless emergency alert system for mobility impaired users this innovative work presents wearable wireless sensing platform designed to enhance safety and autonomy for individuals with limited mobility
+the ieee fleps international conference on flexible and printable sensors and systems is premier global forum that brings together researchers engineers and scientists to share the latest developments in flexible and printable sensors and systems and their real world applications across healthcare wearables iot and smart systems
+dr sandip murarka has been awarded the prestigious crsi bronze medal by the chemical research society of india crsi for his outstanding contribution to the field of chemical sciences
+the chemical research society of india crsi instituted bronze silver and gold medals in the medals aim to recognize indian researchers who have made significant contributions at various levels in chemistry
+important links suraj srivastava assistant professor in the department of electrical engineering became fellow of the institution of electronics telecommunication engineers iete fiete dr suraj srivastava assistant professor in the department of electrical engineering dr suraj srivastava assistant professor in the department of electrical engineering became fellow of the institution of electronics telecommunication engineers iete fiete
+ms beauty kumari phd student at bsbe has received travel bursary award from the indian academy of biomedical science at the iabscon conference aiims bhopal
