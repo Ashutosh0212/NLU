@@ -1,0 +1,9 @@
+requests
+pdfplumber
+nltk
+beautifulsoup4
+langdetect
+wordcloud
+matplotlib
+gensim
+torch
